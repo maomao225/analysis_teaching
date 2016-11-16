@@ -1,0 +1,72 @@
+<div class="index g_wrap">
+	<div class="index_header_wrap" init-data-loading="{{interfaces.indexRadar}}" init-data-loading-storage="header" init-data-loading-tpl="index/header.html" init-data-loading-not="true">
+	</div>
+	<div class="blackboard">
+		<span class="icon">b</span>• 黑板报
+	</div>
+	<section class="dashboard g_flex">
+		<div class="left g_flex g_flex_col">
+			<div class="g_flex g_full_width">
+				<div class="heat container g_flex1 mr15" init-data-loading="{{interfaces.indexVitalityMooc}}" init-data-loading-storage="d3Vitality" init-data-loading-tpl="vitalityMooc.html">
+				</div>
+				<div class="g_flex g_flex_col">
+					<div class="size regional container" init-data-loading="{{interfaces.indexRegional}}" init-data-loading-storage="geomap" init-data-loading-tpl="regional.html">
+					</div>
+					<div class="size attention container mt15" init-data-loading="{{interfaces.indexAttentionMooc}}" init-data-loading-storage="count" init-data-loading-tpl="attentionMooc.html">
+					</div>
+				</div>
+			</div>
+			<div class="g_flex g_full_width mt50 mb50">
+				<div class="size mr15 inactive container" init-data-loading="{{interfaces.indexInactive + ',' + interfaces.indexAttention}}" init-data-loading-storage="d3Inactive,curregisterTotal" init-data-loading-tpl="inactive.html">
+				</div>
+				<div class="size mr15 habit container" init-data-loading="{{interfaces.indexHabit}}" init-data-loading-storage="d3Heat" init-data-loading-tpl="habit.html">
+				</div>
+				<div class="size container score" init-data-loading="{{interfaces.indexScore}}" init-data-loading-storage="d3Score" init-data-loading-tpl="score.html">
+				</div>
+			</div>
+			<div class="g_flex g_full_width mb50">
+				<div class="schedule g_flex1 container" init-data-loading="{{interfaces.indexChapter + ',' + interfaces.indexProcess + ',' + interfaces.indexDotmatrix + ',' + interfaces.indexAttention}}" init-data-loading-storage="fetchChapter,cobar,dotMatrix,curregisterTotal" init-data-loading-tpl="schedule.html">
+				</div>
+			</div>
+
+			<!--<div class="g_flex g_full_width mt50 mb50">-->
+				<!--<div class="g_flex g_flex_col">-->
+					<!--<div class="size inactive container" init-data-loading="{{interfaces.indexInactive + ',' + interfaces.indexAttention}}" init-data-loading-storage="d3Inactive,curregisterTotal" init-data-loading-tpl="inactive.html">-->
+					<!--</div>-->
+					<!--<div class="mt15 size habit container" init-data-loading="{{interfaces.indexHabit}}" init-data-loading-storage="d3Heat" init-data-loading-tpl="habit.html">-->
+					<!--</div>-->
+				<!--</div>-->
+				<!--<div class="schedule_mooc g_flex1 container ml15" init-data-loading="{{interfaces.indexChapter + ',' + interfaces.indexProcess + ',' + interfaces.indexAttention}}" init-data-loading-storage="chapter,cobar,curregisterTotal" init-data-loading-tpl="scheduleMooc.html">-->
+				<!--</div>-->
+			<!--</div>-->
+			<!--<div class="g_flex g_full_width">-->
+				<!--<div class="mr15 size container assistant" init-data-loading="{{interfaces.indexAssistant}}" init-data-loading-storage="fetch" init-data-loading-tpl="assistant.html">-->
+				<!--</div>-->
+				<!--<div class="mr15 size container discuss" init-data-loading="{{interfaces.indexDiscuss}}" init-data-loading-storage="d3Discuss" init-data-loading-tpl="discuss.html">-->
+				<!--</div>-->
+				<!--<div class="size container score" init-data-loading="{{interfaces.indexScore}}" init-data-loading-storage="d3Score" init-data-loading-tpl="score.html">-->
+				<!--</div>-->
+			<!--</div>-->
+			{difficulty_container.html}
+            <div class="g_flex g_full_width" init-data-loading="{{interfaces.indexTotalPostNum + ','+interfaces.indexTotalCommentNum + ',' +interfaces.indexNoCommentPosts + ',' + interfaces.indexNoCommentPostsEveryday + ',' + interfaces.indexPostStatistics + ',' + interfaces.indexPostStatisticsDaily + ',' + interfaces.indexPostRank + ',' + interfaces.indexCommentRank + ',' + interfaces.indexStudentPost + ',' + interfaces.indexPostRelation}}"
+                 init-data-loading-storage="speakTotalCount,indexTotalCommentNum,indexNoCommentPosts,indexNoCommentPostsEveryday,indexPostStatistics,indexPostStatisticsDaily,indexPostRank,indexCommentRank,indexStudentPost,indexPostRelation" init-data-loading-tpl="interactMode.html" init-data-loading-not="true">
+            </div>
+			<div class="g_flex g_full_width mt50 mb50 run_off">
+				<div class="container g_flex1 mr15" init-data-loading="{{interfaces.indexForecast}}" init-data-loading-storage="forecast" init-data-loading-tpl="forecast.html">
+				</div>
+				<div class="g_flex g_flex_col">
+					<div class="size container forecast_certificate" init-data-loading="{{interfaces.indexForecastCertificate + ',' +interfaces.indexAttention}}" init-data-loading-storage="forecast,enrollmentTotal" init-data-loading-tpl="forecastCertificate.html">
+					</div>
+					<div class="size container mt15 opcity_wrap">
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="right">
+			<div class="right_inner" init-data-loading="{{interfaces.indexRadar}}" init-data-loading-storage="d3Radar" init-data-loading-tpl="health.html">
+			</div>
+		</div>
+	</section>
+</div>
+<footer class="index_footer mt100" init-data-loading="{{interfaces.indexLogdate}}" init-data-loading-storage="data" init-data-loading-tpl="moocFooter.html" init-data-loading-not="true">
+</footer>

@@ -1,0 +1,110 @@
+{
+    "msg": "",
+    "data": {
+        "dropout_ratio": "0.0647",
+        "predict_dropout": "0.9433",
+        "dropout_num": 10163,
+        "last_week_error": null,
+        "predict_active": "0.0567",
+        "course_id": "course-v1:TsinghuaX+00612642X+2016_T1",
+        "data": [
+            {
+                "date": "2016-02-22",
+                "active": 0,
+                "dropout": "1011",
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-02-29",
+                "active": 0,
+                "dropout": "1011",
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-03-07",
+                "active": 0,
+                "dropout": "1011",
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-03-14",
+                "active": 0,
+                "dropout": "1011",
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-03-21",
+                "active": 0,
+                "dropout": 0,
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-03-28",
+                "active": 0,
+                "dropout": 0,
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-04-04",
+                "active": 0,
+                "dropout": 0,
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-04-11",
+                "active": 0,
+                "dropout": 0,
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-04-18",
+                "active": 0,
+                "dropout": 0,
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-04-25",
+                "active": 0,
+                "dropout": 0,
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-05-02",
+                "active": 0,
+                "dropout": 0,
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-05-09",
+                "active": 0,
+                "dropout": "1011",
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-05-16",
+                "active": 0,
+                "dropout": "1011",
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-05-23",
+                "active": 0,
+                "dropout": "1011",
+                "overcome": 0.0567
+            },
+            {
+                "date": "2016-05-30",
+                "active": 587,
+                "dropout": 9367,
+                "overcome": "0.9411"
+            },
+            {
+                "date": "2016-06-06",
+                "active": "611",
+                "dropout": "10163",
+                "overcome": "0.0567"
+            }
+        ]
+    },
+    "success": true
+}

@@ -1,0 +1,79 @@
+<div index-schedule>
+	<div class="title g_flex">
+		<div class="g_flex title_left">
+			<p>学习进度</p>
+			<div class="select_container" ng-show=":: selectOption">
+				<div class="chapters ui selection dropdown">
+					<input name="chapters" type="hidden" ng-model="selectModel">
+					<i class="dropdown icon"></i>
+					<div class="text"></div>
+					<div class="menu">
+						<div class="item" data-value="{{::m.id}}" ng-repeat= "m in :: selectOption">{{::m.name}}</div>
+						<div class="divider"></div>
+						<div class="item" data-value="exam-{{::m.seq_id}}" ng-repeat= "m in :: exam_items">{{::m.seq_name}}<span class="exam-symbol">考试</span></div>
+					</div>
+				</div>
+				<!--<select ng-model="selectModel" ng-options="m.id as m.name for m in :: selectOption">-->
+				<!--</select>-->
+			</div>
+		</div>
+		<div class="subtitle">
+			学习行为综合统计<b class="icon" popup popup-hash="schedule" popup-position="bottom center">j</b>
+		</div>
+	</div>
+	<div class="mt10" ng-show="!loading">
+		<div class="g_flex radial-parent" ng-show="!exam_show">
+			<div class="video radial" d3-radial="video">
+		</div>
+			<div class="discussion radial" d3-radial="discussion">
+			</div>
+			<div class="problem radial" d3-radial="problem">
+			</div>
+		</div>
+		<div class="g_flex radial-parent" ng-show="exam_show">
+			<div class="problem radial" d3-radial="score">
+			</div>
+		</div>
+
+		<div class="cobar">
+			<div d3-cobar="cobar" cobar-total="curregisterTotal">
+			</div>
+		</div>
+
+		<div class="dot_matrix_wrap g_flex" ng-hide="pagination.loading">
+			<div class="username">
+				<ul>
+					<li ng-repeat="item in dotMatrix">
+						<span title="{{exam_show?item.username:item[1].username }}">{{ exam_show?item.username:item[1].username }}</span>
+						<i ng-if="item[1].success_probability !== undefined" ng-class="{red: item[1].success_probability < 0.5, yellow: item[1].success_probability < 0.7 && item[1].success_probability >= 0.5, green: item[1].success_probability >= 0.7}" ng-mouseover="userPopupMouseOver($event, $index)" ng-mouseout="userPopupMouseOut()"></i>
+					</li>
+				</ul>
+			</div>
+			<div class="dot_matrix">
+				<div d3-dot-matrix ng-model="dotMatrix" ng-showexam="exam_show" mouseenter-path="mouseenterPath(pointX, pointY, eleOffsetX, eleOffsetY, arrOutsideIndex, arrInsideIndex)" mouseleave-path="mouseleavePath()" mouseout-canvas="mouseoutCanvas()" get-fill-color="setColor(thisData)">
+                   <div id="dotMatrix_main">
+
+                   </div>
+					<div style="display: none;">
+						<img id="vedio_img" alt="alternative text" width="10" height="8" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAAAXNSR0IArs4c6QAAAQ1JREFUGBldTz1LA1EQnN27GE4FJQSx0MKPSmyEdDaihY2SyCkRa/UKexurIPgXRM8/EC/REOQaCyFgWhsLG0sh+Askubfre6IWGZhiZz9mBxjCbbcbOA7JoD8hTu7XFNiwNE6zDY+ZHw/Dcue3BuJG60RUC+SN1EkHK1BmAb0wSVWgvSisXHHcbFWFdCza2zmHZOuAjoPMKEE2j8JyDYriddLeYhUcELwnd14Vi0GQTyYKk3VbLDiNFR2QVihupjOq/TPfx0VmeBpq9t2Ax35DfO1pX05zQa72E+bm7mFZTHZMrK+i+CQLG2rK2i7Zlctod/vtP3WapvmPr2xVVObZPSF4l7nZ56hUGjiHb4fCaxLFZ7ktAAAAAElFTkSuQmCC"/>
+						<img id="problem_img" alt="alternative text" width="10" height="10" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAUxJREFUGBltkL9KA0EQxmf29pJoCIlaCCrYiJVVmtR5gQSJBk0lQsQnsBCM2inYWuQKLSwESUhi8gpqY5tCz04QhJA/JBLh7naciWDlwM4Mu7/5+HYQ/gkiQg5yqrUdMFCgiC6gU6mXmI0RgC8zyJSN+toHkzJAS6jUExhzooHgwNa0Fk0kOgJ+8YDfG2wbAwszuexZr1I/RAVXipXGimLDfDo9kuN1+1sCrc7Fz/vVRkmh9baXW79RovJtj1GqU7nPs71FgdxO/5gQXoobmVt5m4ARb4ru2u0QQJAKWXT52h2cIljPFsGwXG0m/0CDw2Dkuiv8laQXwBHXx+JmphEALmuEsIBakgQv5N2yYX83k3V5NUbu2I9veAvSM0i2UWpeB9EOK386rdZsudmUNzYfxAEn9kHzni58zzz4NOJJ0Qh+IckIH9Nh5Uj7AyU7h9LRUcwjAAAAAElFTkSuQmCC"/>
+						<img id="discussion_img" alt="alternative text" width="10" height="10" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAATJJREFUGBllTz1LA0EQndm9OxT8aFTSxc7O1iLYywneKUGxUxRTWtpbWUhaPxI5tNQLuSVcJXJd/AERLCwFDSGCRjB6X+NusDjiFMPMe29n30PIlOP7OYoiPWcYHdM0fzIUoFoqN94iIawQYp8BJETpBDJ8mFy1rtYRE6XBM9dbkOoNruPxjmW9KPC62Rx9f+1sA2G6V7ROFQbnrndfrfn5wTLUJFcOgkBTMCOCR2Lh1JAGLoQYByB66n4uKe+aodFhlODBZaPRnua8+6zrI+zjK5+EtCv9ipRBL+xHJ39hxBoBbQJSW/7whsh6pNFtybZb8vJcHKaOfCSL05hKiQYvA+I3MmjxGLWKK+bjKN1HbmwNLmb9qWAJRAUGNEOEywRwVyraR1nNv9mp12erNVFQxC/5UH5/WxgU2gAAAABJRU5ErkJggg=="/>
+						<img id="score_img" alt="alternative text" width="8" height="8" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAEVJREFUGBljZJh84z8DMsjVYEQVQ1cAUwwSB2ImGB+FBkmCTAIDdBPQ+Sj2oUsC+QgrQJJwYxEWIhRgkQQpQ/MSQieMBQDprSHDA9MdngAAAABJRU5ErkJggg=="/>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="loading2" ng-show="pagination.loading" ng-include="'loading.html'">
+		</div>
+		<div class="pagination_wrap g_flex pt10" ng-if="pagination.totalItems > pagination.itemsPerPage && dotMatrix.length > 0">
+			<div class="pull_left">
+				第<span>{{ pagination.startNumber + 1 }}</span> - <span>{{ (pagination.startNumber + pagination.itemsPerPage) > pagination.totalItems ? pagination.totalItems : (pagination.startNumber + pagination.itemsPerPage) }}</span>名学生，共计<span>{{ pagination.totalItems }}</span>名学生
+			</div>
+			<div class="pull_right">
+				<pagination ng-model="pagination.currentPage" total-items="pagination.totalItems" items-per-page="pagination.itemsPerPage" ng-change="pagination.pageChanged()" max-size="5" boundary-links="true" rotate="false"></pagination>
+			</div>
+		</div>
+	</div>
+	<div class="loading" ng-show="loading" ng-include="'loading.html'">
+	</div>
+</div>

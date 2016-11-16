@@ -1,0 +1,20 @@
+<div class="dot_matrix_wrap_popup_question">
+	<div class="dot_matrix_wrap_popup_chapter">
+		第<span>{{:: seq}}</span>节/<span>{{:: name}}</span>
+	</div>
+	<div class="dot_matrix_wrap_popup_title mb5 mt5">
+		<span>{{:: detail}}</span>
+	</div>
+	<ul class="dot_matrix_wrap_popup_answer">
+	</ul>
+	<div class="mt5 mb10">
+		<img class="dot_matrix_wrap_popup_avatar" ng-src="{{:: avatar ? avatar : staticDir + '/icon/avatar.png'}}"><span class="dot_matrix_wrap_popup_username">{{:: username}}</span>
+	</div>
+	<div>
+		已学习部分：<span>{{:: (study_rate * 100).toFixed(2) | isInvalidNum}}</span>%
+	</div>
+	<div>
+		已复习部分：<span>{{:: (review_rate * 100).toFixed(2) | isInvalidNum}}</span>%
+	</div>
+	<p class="dot_matrix_wrap_popup_last_time mt5">最后观看时间: <span>{{:: last_modified | dateRange}}</span></p>
+</div>

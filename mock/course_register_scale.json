@@ -1,0 +1,22 @@
+{
+  "msg": "", 
+  "registered_scale": {
+    "ranking": {
+      "name": "\u6392\u540d", 
+      "value": 208
+    }, 
+    "total_enrolls": {
+      "name": "\u5b66\u4e60\u8005\u603b\u89c4\u6a21", 
+      "value": 6470
+    }, 
+    "overcome": {
+      "name": "\u9886\u5148\u767e\u5206\u6bd4", 
+      "value": 0.7479
+    }, 
+    "total_course_num": {
+      "name": "\u5f53\u524d\u8bfe\u7a0b\u603b\u6570", 
+      "value": 825
+    }
+  }, 
+  "success": true
+}

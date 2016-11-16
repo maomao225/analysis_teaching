@@ -1,0 +1,158 @@
+{
+  "msg": "", 
+  "statistics": {
+    "curregister": {
+      "total": 6470, 
+      "yestoday": 31, 
+      "mom": -0.3111
+    }, 
+    "regaddup": {
+      "total": 6898, 
+      "yestoday": 32, 
+      "mom": -0.28888888888888886
+    }, 
+    "unregaddup": {
+      "total": 428, 
+      "yestoday": 427, 
+      "mom": 0
+    }
+  }, 
+  "detail": [
+    {
+      "total_enrolls": 6262, 
+      "enroll_acts": 47, 
+      "unenroll_acts": 1, 
+      "total_unenrolls": 407, 
+      "enrollments": 5855, 
+      "date": "2016-05-23", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6318, 
+      "enroll_acts": 54, 
+      "unenroll_acts": 2, 
+      "total_unenrolls": 409, 
+      "enrollments": 5909, 
+      "date": "2016-05-24", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6368, 
+      "enroll_acts": 50, 
+      "unenroll_acts": 0, 
+      "total_unenrolls": 409, 
+      "enrollments": 5959, 
+      "date": "2016-05-25", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6407, 
+      "enroll_acts": 37, 
+      "unenroll_acts": 2, 
+      "total_unenrolls": 411, 
+      "enrollments": 5996, 
+      "date": "2016-05-26", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6452, 
+      "enroll_acts": 43, 
+      "unenroll_acts": 2, 
+      "total_unenrolls": 413, 
+      "enrollments": 6039, 
+      "date": "2016-05-27", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6523, 
+      "enroll_acts": 68, 
+      "unenroll_acts": 3, 
+      "total_unenrolls": 416, 
+      "enrollments": 6107, 
+      "date": "2016-05-28", 
+      "weekend": true
+    }, 
+    {
+      "total_enrolls": 6572, 
+      "enroll_acts": 45, 
+      "unenroll_acts": 4, 
+      "total_unenrolls": 420, 
+      "enrollments": 6152, 
+      "date": "2016-05-29", 
+      "weekend": true
+    }, 
+    {
+      "total_enrolls": 6622, 
+      "enroll_acts": 49, 
+      "unenroll_acts": 1, 
+      "total_unenrolls": 421, 
+      "enrollments": 6201, 
+      "date": "2016-05-30", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6670, 
+      "enroll_acts": 48, 
+      "unenroll_acts": 0, 
+      "total_unenrolls": 421, 
+      "enrollments": 6249, 
+      "date": "2016-05-31", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6706, 
+      "enroll_acts": 34, 
+      "unenroll_acts": 2, 
+      "total_unenrolls": 423, 
+      "enrollments": 6283, 
+      "date": "2016-06-01", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6739, 
+      "enroll_acts": 32, 
+      "unenroll_acts": 1, 
+      "total_unenrolls": 424, 
+      "enrollments": 6315, 
+      "date": "2016-06-02", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6782, 
+      "enroll_acts": 41, 
+      "unenroll_acts": 2, 
+      "total_unenrolls": 426, 
+      "enrollments": 6356, 
+      "date": "2016-06-03", 
+      "weekend": false
+    }, 
+    {
+      "total_enrolls": 6821, 
+      "enroll_acts": 38, 
+      "unenroll_acts": 1, 
+      "total_unenrolls": 427, 
+      "enrollments": 6394, 
+      "date": "2016-06-04", 
+      "weekend": true
+    }, 
+    {
+      "total_enrolls": 6866, 
+      "enroll_acts": 45, 
+      "unenroll_acts": 0, 
+      "total_unenrolls": 427, 
+      "enrollments": 6439, 
+      "date": "2016-06-05", 
+      "weekend": true
+    }, 
+    {
+      "total_enrolls": 6898, 
+      "enroll_acts": 31, 
+      "unenroll_acts": 1, 
+      "total_unenrolls": 428, 
+      "enrollments": 6470, 
+      "date": "2016-06-06", 
+      "weekend": false
+    }
+  ], 
+  "success": true
+}

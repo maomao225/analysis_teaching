@@ -1,0 +1,28 @@
+#!/usr/bin/env node
+
+var urllib = require('urllib')
+var formstream = require('formstream')
+var path = require('path')
+var glob = require('glob')
+
+glob('./dist/**/*', {
+    realpath: true
+}, function(er, files) {
+    files.forEach(function(filePath) {
+        var form = formstream()
+        var pathObj = path.parse(filePath)
+        form.file('file', filePath)
+
+        urllib.request('http://10.0.0.113/upload/public_assets/xuetangx/analysis_teaching/' + pathObj.base, {
+            method: 'post',
+            headers: form.headers(),
+            stream: form
+        }, function(err, data, res) {
+            if (!err) {
+                console.log('[ok] ' + JSON.parse(data.toString()).url)
+            } else {
+                console.log('[error]请确认已经连接发布环境vpn, 如果已连接请重试。')
+            }
+        })
+    })
+})

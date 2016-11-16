@@ -1,0 +1,29 @@
+<div class="title g_flex">
+	<h2>流失预测</h2>
+</div>
+<div class="description_kpi g_flex" index-forecast>
+	<div class="push_left g_flex1">
+		<h3><i class="icon-quare-minor"></i>未来一周流失率<b class="icon" popup="" popup-position="bottom center" popup-hash="nextWeekRunOffRate">j</b></h3>
+		<p class="g_num total ng-binding"><span>{{:: forecast.data.predict_dropout ? ((forecast.data.predict_dropout * 100).toFixed(2)) + '%' : '--'}}</span></p>
+		<p>流失人数 <span class="g_num ng-binding">{{:: forecast.data.dropout_num}}</span>&nbsp;&nbsp; 环比 <span class="g_num" ng-class=":: {down: forecast.data.dropout_ratio > 0, up: forecast.data.dropout_ratio < 0}" >{{:: forecast.data.dropout_ratio > 0 ? '▲' : '▼'}}{{:: forecast.data.dropout_ratio ? (forecast.data.dropout_ratio * 100).toFixed(2) + '%' : '--'}}</span></p>
+	</div>
+	<div class="push_right g_flex1">
+		<div class="inner">
+			<h3><i class="rect"></i>未来一周活跃率<b class="icon" popup="" popup-hash="nextWeekActive" popup-position="bottom center">j</b></h3>
+			<div class="g_flex">
+				<div class="g_num total" >
+					{{:: forecast.data.predict_active*100 ? (forecast.data.predict_active*100).toFixed(2) + '%' : '--'}}
+				</div>
+			</div>
+		</div>
+ 		<div class="inner">
+			<h3><i class="rect" style="visibility:hidden;"></i>上周预测误差率<b class="icon" popup="" popup-hash="lastWeekError" popup-position="bottom center">j</b></h3>
+			<div class="g_flex">
+				<div class="g_num total" >
+					{{:: forecast.data.last_week_error ? (forecast.data.last_week_error*100).toFixed(2) + '%' : '--'}}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div d3-multi-chart="chartData" d3-option="chartOption"></div>

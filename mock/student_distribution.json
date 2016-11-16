@@ -1,0 +1,316 @@
+{
+  "msg": "", 
+  "success": true, 
+  "area": [
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 856, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u5317\u4eac", 
+      "name": "\u4e2d\u56fd-\u5317\u4eac"
+    }, 
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 642, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u5e7f\u4e1c", 
+      "name": "\u4e2d\u56fd-\u5e7f\u4e1c"
+    }, 
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 478, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u6d59\u6c5f", 
+      "name": "\u4e2d\u56fd-\u6d59\u6c5f"
+    }, 
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 466, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u6cb3\u5317", 
+      "name": "\u4e2d\u56fd-\u6cb3\u5317"
+    }, 
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 398, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u6c5f\u82cf", 
+      "name": "\u4e2d\u56fd-\u6c5f\u82cf"
+    }, 
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 311, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u5929\u6d25", 
+      "name": "\u4e2d\u56fd-\u5929\u6d25"
+    }, 
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 248, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u4e0a\u6d77", 
+      "name": "\u4e2d\u56fd-\u4e0a\u6d77"
+    }, 
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 240, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u5c71\u4e1c", 
+      "name": "\u4e2d\u56fd-\u5c71\u4e1c"
+    }, 
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 239, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u6e56\u5317", 
+      "name": "\u4e2d\u56fd-\u6e56\u5317"
+    }, 
+    {
+      "children": [
+        {
+          "id": "total_unenrolls", 
+          "value": 0, 
+          "name": "\u7d2f\u8ba1\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "enrollments", 
+          "value": 0, 
+          "name": "\u5f53\u524d\u9009\u8bfe\u4eba\u6570"
+        }, 
+        {
+          "id": "unenroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u9000\u8bfe\u4eba\u6b21"
+        }, 
+        {
+          "id": "total_enrolls", 
+          "value": 228, 
+          "name": "\u7d2f\u8ba1\u6ce8\u518c\u4eba\u6b21"
+        }, 
+        {
+          "id": "enroll_acts", 
+          "value": 0, 
+          "name": "\u65e5\u65b0\u589e\u6ce8\u518c\u4eba\u6b21"
+        }
+      ], 
+      "id": "\u4e2d\u56fd-\u6e56\u5357", 
+      "name": "\u4e2d\u56fd-\u6e56\u5357"
+    }
+  ]
+}

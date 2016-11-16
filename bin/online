@@ -1,0 +1,62 @@
+#!/usr/bin/env node
+
+var urllib = require('urllib')
+var fs = require('fs')
+var jsonfile = require('jsonfile')
+var formstream = require('formstream')
+var path = require('path')
+var glob = require('glob')
+var md5 = require('blueimp-md5')
+
+var versionName = 'version.json'
+var versionPath = './dist/' + versionName
+
+glob('./dist/**/*', {
+    realpath: true
+}, function(er, files) {
+    var versionObj = {}
+
+    files.forEach(function(filePath) {
+        var pathObj = path.parse(filePath)
+        var content
+        var oldBase
+
+        if (pathObj.ext === '.js' || pathObj.ext === '.css') {
+            content = fs.readFileSync(filePath).toString()
+            oldBase = pathObj.base
+            pathObj.name = md5(content) + '.' + pathObj.name
+            versionObj[oldBase] = pathObj.base = pathObj.name + pathObj.ext
+        }
+
+        if (pathObj.base !== versionName) {
+            uploadFile(filePath, pathObj.base)
+        }
+
+    })
+
+    // upload version file
+    jsonfile.writeFile(versionPath, versionObj, function(err) {
+        if (err) {
+            console.error(err)
+        }else {
+            uploadFile(versionPath, versionName)
+        }
+    })
+})
+
+function uploadFile(filePath, uploadName) {
+    var form = formstream()
+    form.file('file', filePath)
+    urllib.request('http://10.0.0.113/upload/public_assets/xuetangx/analysis_teaching/' + uploadName, {
+        method: 'post',
+        headers: form.headers(),
+        stream: form
+    }, function(err, data, res) {
+        if (!err) {
+            console.log('[ok] ' + JSON.parse(data.toString()).url)
+        } else {
+            console.log('[error]请确认已经连接发布环境vpn, 如果已连接请重试。')
+        }
+    })
+}
+

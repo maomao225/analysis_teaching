@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=1000" />
+        <meta name="renderer" content="webkit"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title ng-bind="title"></title>
+    </head>
+    <body
+        ng-controller="rootCtrl"
+        data-static="/app/static/"
+        data-course_id="course-v1:TsinghuaX+80000901X+2016_T1"
+        data-index_dashboard_modules_interface="/mock/dashboard.json"
+        data-index_course_process_interface="/mock/course_process.json"
+        data-index_course_register_scale_interface="/mock/course_register_scale.json"
+        data-index_course_activity_rate_interface="/mock/course_activity_rate.json"
+        data-index_course_community_stat_interface="/mock/course_community_stat.json"
+        data-outline="http://www.xuetangx.com/courses/course-v1:TsinghuaX+80000901X+2016_T1/courseware/"
+        data-setting="/course/course-v1:TsinghuaX+80000901X+2016_T1"
+       >
+
+        <div ui-view>
+        </div>
+        <img class="g_hide" id="GET_MD5_CODE" src="http://storage.xuetangx.com/public_assets/xuetangx/images/analysis_teaching/bg.png">
+
+        <script src="/dist/index.js"></script>
+    </body>
+</html>

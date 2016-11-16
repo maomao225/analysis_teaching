@@ -1,0 +1,19 @@
+<div class="title g_flex">
+	<h2>学习活跃</h2>
+	<div class="subtitle">
+		活跃用户占比<b class="icon" popup popup-position="bottom center" popup-hash="inactive">j</b>
+	</div>
+</div>
+<div class="mt10" ng-if=":: d3Inactive.inactive.length">
+	<div d3-inactive="d3Inactive"></div>
+	<div class="text_description g_flex">
+		<div class="percentage g_num">{{:: ((curregisterTotal.regist_count * 1 - d3Inactive.inactive.slice(-1)[0].inactive) / (curregisterTotal.regist_count * 1) * 100).toFixed(2) }}%</div>
+		<div class="total">
+			<p class="g_num">人数 {{:: (curregisterTotal.regist_count * 1 - d3Inactive.inactive.slice(-1)[0].inactive).toLocaleString()}}</p>
+			<p>昨天 <span class="g_num">+{{:: d3Inactive.inactive.slice(-1)[0].revival.toLocaleString()}}</span></p>
+		</div>
+	</div>
+</div>
+<div class="empty" ng-if=":: !d3Inactive.inactive.length">
+	暂无数据
+</div>

@@ -1,0 +1,24 @@
+<div class="index g_wrap">
+	<div class="index_header_wrap" init-data-loading="{{interfaces.indexCourseProcess + ',' + interfaces.indexCourseActivityRate + ',' + interfaces.indexCourseRegisterScale + ',' + interfaces.indexCourseCommunityStat}}" init-data-loading-storage="indexCourseProcess,indexCourseActivityRate,indexCourseRegisterScale,indexCourseCommunityStat" init-data-loading-tpl="index/header.html" init-data-loading-not="true">
+	</div>
+	<div init-data-loading="{{interfaces.indexLogdate}}" init-data-loading-storage="data" init-data-loading-tpl="index/indexBlackboard.html" init-data-loading-not="true">
+	</div>
+	<section class="dashboard g_flex">
+		<div class="left g_flex g_flex_col" id="left_template_box">
+			{%#o.groups%}
+		</div>
+		<div class="right">
+			<div class="right_inner" init-data-loading="{{interfaces.indexCourseProcess + ',' + interfaces.indexCourseActivityRate + ',' + interfaces.indexCourseRegisterScale + ',' + interfaces.indexCourseCommunityStat}}" init-data-loading-storage="indexCourseProcess,indexCourseActivityRate,indexCourseRegisterScale,indexCourseCommunityStat" init-data-loading-tpl="health.html">
+			</div>
+		</div>
+	</section>
+</div>
+{%#o.footer%}
+<footer class="index_footer mt100" style="display: {%=o.footer_default%};">
+	<div class="copyright">
+		<div class="g_wrap">
+			<p>Copyright 2014-2015 北京慕华信息科技有限公司</p>
+			<p><a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备14019655号</a></p>
+		</div>
+	</div>
+</footer>

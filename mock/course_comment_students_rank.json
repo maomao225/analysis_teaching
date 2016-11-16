@@ -1,0 +1,41 @@
+{
+  "msg": "", 
+  "data": [
+    {
+      "username": "\u54a9\u54a9135763", 
+      "total": 63, 
+      "group_id": 2, 
+      "uid": 2927460, 
+      "count": 0
+    }, 
+    {
+      "username": "\u4f24\u5fc3\u7ae5\u8bdd", 
+      "total": 59, 
+      "group_id": 2, 
+      "uid": 2503865, 
+      "count": 0
+    }, 
+    {
+      "username": "\u5403\u4e66", 
+      "total": 59, 
+      "group_id": 2, 
+      "uid": 2726602, 
+      "count": 0
+    }, 
+    {
+      "username": "\u5468\u73ca\u73ca", 
+      "total": 56, 
+      "group_id": 2, 
+      "uid": 2641101, 
+      "count": 0
+    }, 
+    {
+      "username": "ldx11410041", 
+      "total": 56, 
+      "group_id": 2, 
+      "uid": 2600751, 
+      "count": 0
+    }
+  ], 
+  "success": true
+}

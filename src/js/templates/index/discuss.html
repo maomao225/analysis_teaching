@@ -1,0 +1,18 @@
+<div class="title g_flex">
+	<h2>讨论活跃</h2>
+	<div class="subtitle">
+		昨日新增发帖数<b class="icon" popup popup-hash="discuss" popup-position="bottom center">j</b>
+	</div>
+</div>
+<div class="mt10">
+	<div d3-discuss=":: d3Discuss"></div>
+	<div class="text_description g_flex" ng-if=":: d3Discuss.reply.length">
+		<div class="percentage g_num">
+			{{:: d3Discuss.reply.slice(-1)[0].children[0].value.toLocaleString()}}
+		</div>
+		<div class="total">
+			<p class="g_num">昨日回帖 +{{:: d3Discuss.reply.slice(-1)[0].children[2].value.toLocaleString()}}</p>
+			<p>昨日零回帖 <span class="g_num">+{{:: d3Discuss.reply.slice(-1)[0].children[1].value.toLocaleString()}}</span></p>
+		</div>
+	</div>
+</div>

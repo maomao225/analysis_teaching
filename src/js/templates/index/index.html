@@ -1,0 +1,52 @@
+<div class="index g_wrap">
+	<div class="index_header_wrap" init-data-loading="{{interfaces.indexRadar}}" init-data-loading-storage="header" init-data-loading-tpl="index/header.html" init-data-loading-not="true">
+	</div>
+	<div class="blackboard">
+		<span class="icon">b</span>・ 黑板报
+		<a id="download_nav" class="download_nav" ng-click="download_nav_click()" href="javascript:void(0);">下载</a>
+	</div>
+	<section class="dashboard g_flex">
+		<div class="left g_flex g_flex_col">
+			<div class="g_flex g_full_width">
+				<div class="g_flex g_flex_col">
+					<div class="size attention container" init-data-loading="{{interfaces.indexAttention}}" init-data-loading-storage="regist_count" init-data-loading-tpl="attention.html">
+					</div>
+					<div class="size habit container mt15" init-data-loading="{{interfaces.indexHabit}}" init-data-loading-storage="d3Heat" init-data-loading-tpl="habit.html">
+					</div>
+				</div>
+				<div class="heat container g_flex1 ml15" init-data-loading="{{interfaces.indexVitality + ',' + interfaces.indexAttention}}" init-data-loading-storage="fetch,curregisterTotal" init-data-loading-tpl="vitality.html">
+				</div>
+			</div>
+			<div class="g_flex g_full_width mt50 mb50">
+				<div class="schedule g_flex1 container" init-data-loading="{{interfaces.indexChapter + ',' + interfaces.indexProcess + ',' + interfaces.indexDotmatrix + ',' + interfaces.indexAttention + ','+interfaces.indexScheduleExam}}" init-data-loading-storage="fetchChapter,cobar,dotMatrix,curregisterTotal,indexScheduleExam" init-data-loading-tpl="schedule.html">
+				</div>
+			</div>
+			<!--<div class="g_flex g_full_width">-->
+				<!--<div class="size container discuss" init-data-loading="{{interfaces.indexDiscuss}}" init-data-loading-storage="d3Discuss" init-data-loading-tpl="discuss.html">-->
+				<!--</div>-->
+				<!--<div class="size container score ml15 mr15" init-data-loading="{{interfaces.indexScore}}" init-data-loading-storage="d3Score" init-data-loading-tpl="score.html">-->
+				<!--</div>-->
+				<!--<div class="size container assistant" init-data-loading="{{interfaces.indexAssistant}}" init-data-loading-storage="fetch" init-data-loading-tpl="assistant.html">-->
+				<!--</div>-->
+
+			<!--</div>-->
+			{difficulty_container.html}
+			<div class="g_flex g_full_width container container2 interactMode_parent" init-data-loading="{{interfaces.indexTotalPostNum + ','+interfaces.indexTotalCommentNum + ',' +interfaces.indexNoCommentPosts + ',' + interfaces.indexNoCommentPostsEveryday + ',' + interfaces.indexPostStatistics + ',' + interfaces.indexPostStatisticsDaily + ',' + interfaces.indexPostRank + ',' + interfaces.indexCommentRank + ',' + interfaces.indexStudentPost + ',' + interfaces.indexPostRelation}}"
+				 init-data-loading-storage="speakTotalCount,indexTotalCommentNum,indexNoCommentPosts,indexNoCommentPostsEveryday,indexPostStatistics,indexPostStatisticsDaily,indexPostRank,indexCommentRank,indexStudentPost,indexPostRelation" init-data-loading-tpl="interactMode.html">
+			</div>
+			<div class="g_flex g_full_width" init-data-loading="{{interfaces.indexDownloadStudent + ',' + interfaces.indexDiscuss}}" init-data-loading-storage="studentData,indexDiscuss" init-data-loading-tpl="download.html" init-data-loading-not="false"></div>
+		</div>
+		<div class="right">
+			<div class="right_inner" init-data-loading="{{interfaces.indexRadar}}" init-data-loading-storage="d3Radar" init-data-loading-tpl="health.html">
+			</div>
+		</div>
+	</section>
+</div>
+<footer class="index_footer mt100">
+	<div class="copyright">
+		<div class="g_wrap">
+			<p>Copyright 2014-2015 北京慕华信息科技有限公司</p>
+			<p><a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备14019655号</a></p>
+		</div>
+	</div>
+</footer>

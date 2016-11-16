@@ -1,0 +1,24 @@
+@import "modules/widget/table";
+
+.main-detail {
+    $mainHeaderHeight: 70px;
+    .main-detial-header {
+        height: $mainHeaderHeight;
+        background: rgba(0, 0, 0, .5);
+    }
+    .fixed-left-sidebar {
+        position: fixed;
+        left: 0;
+        top: $mainHeaderHeight;
+        height: calc(100% - #{$mainHeaderHeight});
+        width: 100px;
+        background: #fff;
+    }
+    .main-title {
+        display: flex;
+        justify-content: space-between;
+    }
+    .main-container {
+        background: #fff;
+    }
+}

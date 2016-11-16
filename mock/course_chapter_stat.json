@@ -1,0 +1,144 @@
+{
+  "success": true, 
+  "chapter_answer": [
+    {
+      "children": [
+        {
+          "id": "answered", 
+          "value": 44, 
+          "name": "\u7b54\u9898\u4eba\u6570"
+        }, 
+        {
+          "id": "above_60", 
+          "value": 31, 
+          "name": "\u6b63\u786e\u738760%\u4ee5\u4e0a"
+        }, 
+        {
+          "id": "above_80", 
+          "value": 31, 
+          "name": "\u6b63\u786e\u738780%\u4ee5\u4e0a"
+        }, 
+        {
+          "id": "score_100", 
+          "value": 27, 
+          "name": "\u6b63\u786e\u7387100%"
+        }
+      ], 
+      "id": "problem_distribution", 
+      "name": ""
+    }
+  ], 
+  "chapter_id": "42b41085b7604cccae4ae64b58f03e0e", 
+  "chapter_review": [
+    {
+      "id": "study_num", 
+      "value": 1, 
+      "name": "\u5b66\u4e60\u4eba\u6570"
+    }, 
+    {
+      "id": "review_num", 
+      "value": 1, 
+      "name": "\u590d\u4e60\u4eba\u6570"
+    }
+  ], 
+  "chapters": [
+    {
+      "category": "chapter", 
+      "start": "2016-03-06", 
+      "id": "2640b90a1bfc484c85e0628fa6cd309c", 
+      "name": "1 \u4e2d\u56fd\u5efa\u7b51\u6982\u8bf4"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-03-13", 
+      "id": "349fc4291ed04aba85bf5c53651e1ee9", 
+      "name": "2 \u53f2\u524d\u81f3\u79e6\u6c49\u65f6\u671f\u7684\u4e2d\u56fd\u5efa\u7b51"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-03-20", 
+      "id": "021548facfac4fcbac0c0ad07a94626b", 
+      "name": "3 \u4e09\u56fd\u4e24\u664b\u5357\u5317\u671d\u65f6\u671f\u7684\u4e2d\u56fd\u5efa\u7b51"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-03-27", 
+      "id": "52b77d6ee6cc462caaf2d2edcd24e7da", 
+      "name": "4 \u968b\u5510\u65f6\u671f\u7684\u57ce\u5e02\u4f4f\u5b85\u5bab\u6bbf\u4e0e\u56ed\u6797 "
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-04-03", 
+      "id": "f430e3e279b84421bf1c545bbc40e872", 
+      "name": "5 \u968b\u5510\u65f6\u671f\u7684\u5efa\u7b51\u9057\u5b58\uff0c\u5efa\u7b51\u827a\u672f\u4e0e\u6280\u672f"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-04-10", 
+      "id": "23d103e694c54ccc93bb9eee6e291eea", 
+      "name": "6 \u4e94\u4ee3\u4e24\u5b8b\u8fbd\u91d1\u65f6\u671f\u7684\u57ce\u5e02\uff0c\u5bab\u6bbf\u4e0e\u82d1\u56ff"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-04-17", 
+      "id": "457640a5eb9c4afb88190b92eca0bbd0", 
+      "name": "7 \u4e94\u4ee3\u4e24\u5b8b\u8fbd\u91d1\u6728\u6784\u5efa\u7b51\u9057\u5b58"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-04-24", 
+      "id": "8e8d6c5f188d43b99092ddc5b63c3742", 
+      "name": "8 \u4e24\u5b8b\u8fbd\u91d1\u65f6\u671f\u7684\u4f5b\u5854\uff0c\u300a\u8425\u9020\u6cd5\u5f0f\u300b\u4e0e\u5c0f\u7ed3"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-05-01", 
+      "id": "4e8ca9aa347e4c6393e4d6b03a0d1503", 
+      "name": "\u671f\u4e2d\u8003\u8bd5"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-05-01", 
+      "id": "1532699977ef42d98e5d0f798703c361", 
+      "name": "9 \u5143\u660e\u65f6\u671f\u7684\u57ce\u5e02\u4e0e\u5efa\u7b51 \u4e0a"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-05-08", 
+      "id": "02e6a50dea554e97a221ef855a02c829", 
+      "name": "10 \u5143\u660e\u65f6\u671f\u7684\u57ce\u5e02\u4e0e\u5efa\u7b51 \u4e0b"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-05-15", 
+      "id": "c9ba915ae6b8415d92917449fa599cf1", 
+      "name": "11 \u6e05\u4ee3\u5efa\u7b51\u6982\u8ff0\u4e0e\u7d2b\u7981\u57ce"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-05-22", 
+      "id": "9e7a3a70b521442e8b8f1d8d79b07eb9", 
+      "name": "12 \u57ce\u4e61\u751f\u6d3b\u4e0e\u5efa\u7b51\u7c7b\u578b"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-05-29", 
+      "id": "fe27447f02f34bf3a2a1fdf8041d2718", 
+      "name": "13 \u6e05\u4ee3\u5efa\u7b51\u6280\u672f\u4e0e\u827a\u672f"
+    }, 
+    {
+      "category": "chapter", 
+      "start": "2016-06-05", 
+      "id": "42b41085b7604cccae4ae64b58f03e0e", 
+      "name": "14 \u660e\u6e05\u65f6\u671f\u53e4\u5178\u56ed\u6797"
+    }
+  ], 
+  "chapter_discussion": [
+    {
+      "id": "students_num", 
+      "value": 0, 
+      "name": "\u53d1\u8a00\u4eba\u6570"
+    }
+  ], 
+  "msg": ""
+}

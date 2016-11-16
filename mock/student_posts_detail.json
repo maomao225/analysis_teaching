@@ -1,0 +1,3192 @@
+{
+  "msg": "", 
+  "data": [
+    {
+      "username": "\u77bf\u68a6\u5353", 
+      "uid": 2719014, 
+      "post_num": 0, 
+      "comment_num": 62, 
+      "grade_percent": "95.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "I_See_Fire", 
+      "uid": 3050825, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "4.88%", 
+      "avatar": "http://tva3.sinaimg.cn/crop.0.0.512.512.50/6f7ef86ejw8f3cmz3gz5yj20e80e8dg7.jpg", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5e78\u798fyi\u8f88\u5b50", 
+      "uid": 2794647, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "87.27%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "0818lisa", 
+      "uid": 257020, 
+      "post_num": 0, 
+      "comment_num": 48, 
+      "grade_percent": "73.61%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "/\u5e73\u884c\u65f6\u7a7a/", 
+      "uid": 2901597, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "64.34%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/08262B76E9EF3579C5253A5FA76B97CC/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8521\u96e8\u4eea0084", 
+      "uid": 2655145, 
+      "post_num": 0, 
+      "comment_num": 59, 
+      "grade_percent": "66.32%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5468\u656c\u4ec1", 
+      "uid": 2705719, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "79.90%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "lzu_myli2015", 
+      "uid": 1523797, 
+      "post_num": 0, 
+      "comment_num": 61, 
+      "grade_percent": "92.68%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "houmingyi", 
+      "uid": 2502835, 
+      "post_num": 0, 
+      "comment_num": 25, 
+      "grade_percent": "84.83%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6211\u4ee5\u524d\u4e0d\u5e05", 
+      "uid": 2617781, 
+      "post_num": 0, 
+      "comment_num": 7, 
+      "grade_percent": "68.22%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6708\u534a\u5c0f\u72ee", 
+      "uid": 3022969, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "83.95%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/FC75B64FB1B2153D6BA01E6CE1C3DAA2/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5218\u5927\u5927\u4e07\u5c81", 
+      "uid": 2902762, 
+      "post_num": 0, 
+      "comment_num": 8, 
+      "grade_percent": "55.49%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u80e1\u632f\u5b87", 
+      "uid": 2833985, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "5.63%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u674e\u6cfdRicardo", 
+      "uid": 2509175, 
+      "post_num": 0, 
+      "comment_num": 44, 
+      "grade_percent": "91.71%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2509175-20160223171342.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6211297805", 
+      "uid": 2635429, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "91.71%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/50932B97A894FDE2D5FDA486574B5EAF/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e0d\u4f1a\u5356\u840c\u7684\u5b9d\u5b9d", 
+      "uid": 2493066, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "2.44%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u633d\u98ce\u542c\u9c7c", 
+      "uid": 681692, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "6.49%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u84e6\u7684\u4e00\u76f8\u9022", 
+      "uid": 2717659, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "70.39%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u840c\u7237", 
+      "uid": 2527907, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "25.78%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "^_\u8f15\u63cf//\u6de1\u5beb_^", 
+      "uid": 2767485, 
+      "post_num": 0, 
+      "comment_num": 3, 
+      "grade_percent": "58.51%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/1F7D19588509BC9DD65100037ED2EE37/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u96fe\u4e0d\u900f", 
+      "uid": 1581950, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "96.68%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u00d5\u01d2 \u2162", 
+      "uid": 2831877, 
+      "post_num": 0, 
+      "comment_num": 53, 
+      "grade_percent": "77.34%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/E1598FDF69FF82309D07FFC2CA6671B2/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u58a8\u8f69momo", 
+      "uid": 2600392, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "80.71%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEIe1NuzIcn3qgdn9ibkEYhtBKEEfrv3Sr5Ba2Qic82QtUtITZpdg4zPCibR7OHEBZVOYk5lINlMULiaYg/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6d1b\u9633\u94f2", 
+      "uid": 2598757, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "78.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u68a6\u5609", 
+      "uid": 2684593, 
+      "post_num": 0, 
+      "comment_num": 23, 
+      "grade_percent": "86.76%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "LOPTR", 
+      "uid": 1200440, 
+      "post_num": 0, 
+      "comment_num": 42, 
+      "grade_percent": "72.90%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u82b1\u706b \ufe36", 
+      "uid": 2667186, 
+      "post_num": 0, 
+      "comment_num": 59, 
+      "grade_percent": "67.05%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/7E487763FEE0124204C88470ED57EB4E/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5c0f\u65f6\u65f6", 
+      "uid": 2523669, 
+      "post_num": 1, 
+      "comment_num": 18, 
+      "grade_percent": "31.00%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5434\u5c27\u5929", 
+      "uid": 2610139, 
+      "post_num": 1, 
+      "comment_num": 1, 
+      "grade_percent": "93.93%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2610139-20160505193623.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "CJL-L", 
+      "uid": 2677838, 
+      "post_num": 0, 
+      "comment_num": 57, 
+      "grade_percent": "83.85%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8fbe\u8fbe177680", 
+      "uid": 2659771, 
+      "post_num": 0, 
+      "comment_num": 16, 
+      "grade_percent": "95.12%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/211443D1790176F08E0A469829E6DD49/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "xueboyang", 
+      "uid": 1551451, 
+      "post_num": 0, 
+      "comment_num": 41, 
+      "grade_percent": "78.10%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u53e4\u65f6\u6708\u590f\u65f6\u9633", 
+      "uid": 2749256, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "58.85%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "johson", 
+      "uid": 2603974, 
+      "post_num": 0, 
+      "comment_num": 26, 
+      "grade_percent": "93.37%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u3002\u7af9\u82d3", 
+      "uid": 2467416, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "2.44%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/AE7D88CFFFF0FF52F92DD13734492252/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Patricky", 
+      "uid": 1083191, 
+      "post_num": 0, 
+      "comment_num": 3, 
+      "grade_percent": "2.44%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u4e8c\u6d3e\u5148\u751f", 
+      "uid": 2906108, 
+      "post_num": 0, 
+      "comment_num": 40, 
+      "grade_percent": "91.46%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6696\u8272\u7cfb", 
+      "uid": 2715617, 
+      "post_num": 0, 
+      "comment_num": 12, 
+      "grade_percent": "93.83%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "wbzlzy", 
+      "uid": 2707320, 
+      "post_num": 0, 
+      "comment_num": 67, 
+      "grade_percent": "91.17%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9ec4\u4f73\u71d5", 
+      "uid": 2656498, 
+      "post_num": 0, 
+      "comment_num": 56, 
+      "grade_percent": "92.88%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Chris_WHZ", 
+      "uid": 2583844, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "92.76%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5b5f\u590f", 
+      "uid": 2920251, 
+      "post_num": 0, 
+      "comment_num": 51, 
+      "grade_percent": "78.15%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2920251-20160417232530.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7a0b\u745e\u741b", 
+      "uid": 2515521, 
+      "post_num": 1, 
+      "comment_num": 2, 
+      "grade_percent": "10.10%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5170\u5927\u5c0f\u68ee\u6797", 
+      "uid": 2656497, 
+      "post_num": 0, 
+      "comment_num": 62, 
+      "grade_percent": "90.49%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5362\u661f\u5b870717", 
+      "uid": 2656496, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "95.02%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2656496-20160302120359.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7533\u5fc3\u83b9", 
+      "uid": 2658570, 
+      "post_num": 0, 
+      "comment_num": 64, 
+      "grade_percent": "91.46%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "l\u69b4\u83b2\u55b5", 
+      "uid": 2629373, 
+      "post_num": 0, 
+      "comment_num": 28, 
+      "grade_percent": "93.71%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8521\u91d1", 
+      "uid": 2626685, 
+      "post_num": 0, 
+      "comment_num": 43, 
+      "grade_percent": "72.63%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6e29\u4f73\u661f", 
+      "uid": 2516484, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "70.15%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2516484-20160222081709.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6b63\u5b9d", 
+      "uid": 2640904, 
+      "post_num": 0, 
+      "comment_num": 3, 
+      "grade_percent": "92.68%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9ddf\u9ddf", 
+      "uid": 2714197, 
+      "post_num": 0, 
+      "comment_num": 50, 
+      "grade_percent": "79.54%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u590f\u5929\u4e0d\u4e0b\u96ea", 
+      "uid": 2808197, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "82.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "SilenceRedemption", 
+      "uid": 93923, 
+      "post_num": 0, 
+      "comment_num": 25, 
+      "grade_percent": "85.05%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-93923-20160111162346.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5fd8\u5ddd\u6cb3\u4e0a\u7b49\u4f60", 
+      "uid": 2666772, 
+      "post_num": 0, 
+      "comment_num": 56, 
+      "grade_percent": "75.93%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u67ef\u80b2\u971e", 
+      "uid": 2672119, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "73.24%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8fe3\u6e01\u59e9\u6f95", 
+      "uid": 2707394, 
+      "post_num": 0, 
+      "comment_num": 63, 
+      "grade_percent": "90.05%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2707394-20160311133823.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6c5f\u827a\u6f6e", 
+      "uid": 2733264, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "7.32%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2733264-20160312221239.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u795e\u9690\u91cc\u7684\u5c0f\u767d\u9f99", 
+      "uid": 2666075, 
+      "post_num": 0, 
+      "comment_num": 56, 
+      "grade_percent": "95.12%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2666075-20160303210005.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5f73\u4e8d\u5b51\u7136", 
+      "uid": 2508426, 
+      "post_num": 0, 
+      "comment_num": 61, 
+      "grade_percent": "93.63%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "imShadowmatic", 
+      "uid": 2498858, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "5.68%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/FF8FF2C9A0069245622EA1623136E869/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "hamec", 
+      "uid": 485764, 
+      "post_num": 0, 
+      "comment_num": 11, 
+      "grade_percent": "8.76%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Staraineva", 
+      "uid": 2482397, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "83.85%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7f8e\u4e3d\u96e8\u6674\u59d0\u59d0", 
+      "uid": 2668124, 
+      "post_num": 0, 
+      "comment_num": 59, 
+      "grade_percent": "84.32%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": ".142464", 
+      "uid": 2721385, 
+      "post_num": 0, 
+      "comment_num": 58, 
+      "grade_percent": "83.54%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/6D8A475981240F351B622CD4E11B8F41/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "wm\u554a", 
+      "uid": 2668097, 
+      "post_num": 0, 
+      "comment_num": 63, 
+      "grade_percent": "87.88%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7ae0\u9c7c\u70e7\u70e7", 
+      "uid": 2557106, 
+      "post_num": 0, 
+      "comment_num": 43, 
+      "grade_percent": "75.22%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2557106-20160209180943.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u3109\u6270", 
+      "uid": 2900227, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "75.68%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/948D7A459AEE5FFA58293BF7F9D9CDBF/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u82b1\u96e8\u4fe8\u7136", 
+      "uid": 2715473, 
+      "post_num": 0, 
+      "comment_num": 13, 
+      "grade_percent": "92.73%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "hebut_151556", 
+      "uid": 1403072, 
+      "post_num": 0, 
+      "comment_num": 18, 
+      "grade_percent": "93.41%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u955c\u4e91\u536b", 
+      "uid": 2797533, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "2.44%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/10C2E5DC6ADE73DC6ABA3D7E7A4BAEDF/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u909d\u4e9a\u6960", 
+      "uid": 3028574, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "35.05%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "hebut_151654", 
+      "uid": 1403173, 
+      "post_num": 0, 
+      "comment_num": 26, 
+      "grade_percent": "86.39%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9501\u6c34\u4fdd\u6e7f", 
+      "uid": 2799457, 
+      "post_num": 0, 
+      "comment_num": 48, 
+      "grade_percent": "82.00%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "unaw", 
+      "uid": 2825213, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "80.20%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7f04\u800c\u9ed8", 
+      "uid": 2757064, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "28.61%", 
+      "avatar": "http://tp4.sinaimg.cn/3131669775/50/5721875982/0", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u987e\u82b3", 
+      "uid": 2664535, 
+      "post_num": 8, 
+      "comment_num": 2, 
+      "grade_percent": "79.76%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "willowly", 
+      "uid": 2909660, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "78.41%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e00\u7ebf\u6d45", 
+      "uid": 2676317, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "86.15%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u555c\u7545", 
+      "uid": 2500011, 
+      "post_num": 0, 
+      "comment_num": 19, 
+      "grade_percent": "73.02%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/6FCC520384FCECF8DDF554520FC04B11/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5929\u82e5/TSI\u97ec\u89c6-\u4f55\u65fb\u8d5f", 
+      "uid": 2526427, 
+      "post_num": 0, 
+      "comment_num": 6, 
+      "grade_percent": "2.22%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/365B58F7F51BC757FF85F6AA3D49D0EC/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "xiaowangzi192939", 
+      "uid": 2469175, 
+      "post_num": 0, 
+      "comment_num": 51, 
+      "grade_percent": "78.32%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e00\u53ea\u72d7\u7238\u7238", 
+      "uid": 2821303, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "50.88%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/B52D83C3F2D9F068A136DA03893769AF/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Cheryl\u9648\u7476", 
+      "uid": 2656452, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "92.10%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Oxygen318345", 
+      "uid": 2667965, 
+      "post_num": 0, 
+      "comment_num": 25, 
+      "grade_percent": "42.49%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/70078E0736CFC9F7302002D00A9605B2/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Irene68", 
+      "uid": 284959, 
+      "post_num": 0, 
+      "comment_num": 7, 
+      "grade_percent": "35.10%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u90ed\u4f73\u5b81", 
+      "uid": 2906392, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "84.32%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "54cy", 
+      "uid": 208778, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "5.16%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "a3534403", 
+      "uid": 2920882, 
+      "post_num": 0, 
+      "comment_num": 23, 
+      "grade_percent": "17.00%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "neutral", 
+      "uid": 2638461, 
+      "post_num": 0, 
+      "comment_num": 6, 
+      "grade_percent": "49.22%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2638461-20160229130843.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "tsinghua_chenlz_1591", 
+      "uid": 2499135, 
+      "post_num": 0, 
+      "comment_num": 63, 
+      "grade_percent": "98.02%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7a0b\u5de7\u4e91", 
+      "uid": 2672012, 
+      "post_num": 0, 
+      "comment_num": 27, 
+      "grade_percent": "48.46%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5929\u4e86\u565c", 
+      "uid": 2801630, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "88.39%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u83ab\u67d3.", 
+      "uid": 2796567, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "48.00%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/5341710488282187EB46B84969B8F984/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u865a\u65e0de\u771f\u8a00", 
+      "uid": 2710016, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "6.27%", 
+      "avatar": "http://tp1.sinaimg.cn/3666710264/50/5751464478/1", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u84c2\u83e5\u00b7\u7b28\u86cb", 
+      "uid": 2655865, 
+      "post_num": 0, 
+      "comment_num": 65, 
+      "grade_percent": "78.05%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/E9E1BC0342699F3A5392840AAB4A4834/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u77f3\u91d1\u9f99", 
+      "uid": 2654143, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "67.83%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Norwich", 
+      "uid": 2940555, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "2.34%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "RUIHANNI", 
+      "uid": 2659397, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "91.02%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7236\u4eb2", 
+      "uid": 2940070, 
+      "post_num": 0, 
+      "comment_num": 30, 
+      "grade_percent": "50.46%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "ZhangTing558", 
+      "uid": 2597689, 
+      "post_num": 0, 
+      "comment_num": 8, 
+      "grade_percent": "93.27%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2597689-20160303142606.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u718a\u96cd\u73a5\u73e9", 
+      "uid": 2632849, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "100.00%", 
+      "avatar": "", 
+      "group_id": "3"
+    }, 
+    {
+      "username": "\u5f69\u8679\u76f4\u81f3\u9ed1\u767d", 
+      "uid": 2456056, 
+      "post_num": 0, 
+      "comment_num": 46, 
+      "grade_percent": "67.90%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2456056-20160520153411.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4f5b\u66f0\u4e0d\u53ef\u8bf4", 
+      "uid": 3005860, 
+      "post_num": 0, 
+      "comment_num": 49, 
+      "grade_percent": "78.07%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "super\u7434", 
+      "uid": 1352459, 
+      "post_num": 0, 
+      "comment_num": 59, 
+      "grade_percent": "93.56%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5c0f\u5b66\u751f30", 
+      "uid": 2709907, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "79.49%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8bf7\u53eb\u6211\u5f3a\u54e5", 
+      "uid": 2508891, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "2.44%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Muse.clio", 
+      "uid": 2461845, 
+      "post_num": 0, 
+      "comment_num": 8, 
+      "grade_percent": "80.98%", 
+      "avatar": "http://q.qlogo.cn/qqapp/1101680520/D3389CAEFE68E85A6A70A102E60CA812/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6de1\u6c34\u7af9\u5fc3", 
+      "uid": 2618351, 
+      "post_num": 0, 
+      "comment_num": 43, 
+      "grade_percent": "72.61%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/PiajxSqBRaELia8kmcNicfd2THyFgkjNCgYbCk1s68HibhCOUxcCZCc6PgV2ehXPkFwR0YO0LfYaWYDIRqHSrPmk2g/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "xwj21", 
+      "uid": 3005715, 
+      "post_num": 0, 
+      "comment_num": 33, 
+      "grade_percent": "28.93%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5180\u4e16\u806a", 
+      "uid": 2915688, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "89.73%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Debby\u4e36\u5915", 
+      "uid": 2435390, 
+      "post_num": 0, 
+      "comment_num": 26, 
+      "grade_percent": "28.44%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/1956BF1BF26B126A6F0584295EB06246/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5927\u8fea369342", 
+      "uid": 2842106, 
+      "post_num": 0, 
+      "comment_num": 15, 
+      "grade_percent": "73.17%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/38B7F3852EF95D5D71D06F1E56F1CE01/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u54c8\u7f57\u5f71", 
+      "uid": 2664868, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "92.07%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2664868-20160303175921.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "RACHEL-WANG", 
+      "uid": 286150, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "3.07%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u8f9b\u9edb\u745e\u62c9791497", 
+      "uid": 2839812, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "70.98%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/7DA596D92ECADC91944FE46AE1B21443/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9716\u5c24", 
+      "uid": 2518526, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "95.12%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2518526-20160228204947.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e8c\u5341\u4e09\u56db\u5c81", 
+      "uid": 2840277, 
+      "post_num": 0, 
+      "comment_num": 57, 
+      "grade_percent": "87.49%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/6CCE70EF7E053C99105F711E3EF8CEDC/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5b59\u5c0f\u96e8", 
+      "uid": 3038110, 
+      "post_num": 0, 
+      "comment_num": 56, 
+      "grade_percent": "75.51%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e09\u5c11\u76d6\u8328\u6bd4", 
+      "uid": 1197988, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "100.00%", 
+      "avatar": "", 
+      "group_id": "3"
+    }, 
+    {
+      "username": "jasmine233", 
+      "uid": 2850823, 
+      "post_num": 0, 
+      "comment_num": 56, 
+      "grade_percent": "78.63%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u84c2\u83e5\u7b28\u86cb", 
+      "uid": 2732490, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "4.66%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u9ec4\u5b87\u5b8f101286", 
+      "uid": 2635432, 
+      "post_num": 0, 
+      "comment_num": 63, 
+      "grade_percent": "84.98%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/30C219C48E11F52C2F6EFD3E1AE1DAAE/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "GlacialLauncher", 
+      "uid": 2644880, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "4.88%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2644880-20160229175453.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u7a7f\u8d8a\u65f6\u7a7a170132", 
+      "uid": 2608390, 
+      "post_num": 0, 
+      "comment_num": 12, 
+      "grade_percent": "18.83%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEJqgSdKmNcwwGiaQnfWKg6UeiaOeTevLxKj6MktjVCO4ngNOiaIwIJUvZicU6Th8icwPO2DBy58UwcWQZw/0", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u7f8a\u9a7c\u6559\u4e3b", 
+      "uid": 2910447, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "7.32%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Mintcake", 
+      "uid": 1090479, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "32.02%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u542c\u8bfe\u7684\u4eba", 
+      "uid": 3020727, 
+      "post_num": 0, 
+      "comment_num": 41, 
+      "grade_percent": "65.29%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e00\u7eb8\u5c18\u57c3", 
+      "uid": 2513410, 
+      "post_num": 0, 
+      "comment_num": 55, 
+      "grade_percent": "92.20%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4faf\u6613\u5fe0", 
+      "uid": 2447329, 
+      "post_num": 0, 
+      "comment_num": 7, 
+      "grade_percent": "94.34%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2447329-20160111100357.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u522b\u628a\u96f6\u98df\u88c5\u9519\u53e3\u888b\u3002", 
+      "uid": 2704333, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "67.90%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/C284E8DFA3660640D8CEF69402729417/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5b89\u4ed4399889", 
+      "uid": 2477336, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "72.49%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/433EFCE6E13037D848C5223D55F7FF3F/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6728\u7c2a\u3002", 
+      "uid": 2970000, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "77.98%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/Ls6HDtTlHDPIo5DLMHbNQ9KNDVia2JeCfbyU0LIx3CD4dmpvXDH8tmQXgShgu4dhaPogsULMuGcpU0j3jcH7QgibiaWBkZY2V6S/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u66f9\u5a07\u5a07", 
+      "uid": 2833224, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "72.17%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u597d\u591a\u602a\u7269\u5440", 
+      "uid": 2927096, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "84.24%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "lalalahohoho", 
+      "uid": 2455988, 
+      "post_num": 0, 
+      "comment_num": 38, 
+      "grade_percent": "89.29%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "HeinrichLee", 
+      "uid": 2503573, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "77.71%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2503573-20160121105144.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "liuxiivy", 
+      "uid": 2659506, 
+      "post_num": 0, 
+      "comment_num": 24, 
+      "grade_percent": "15.94%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5434\u963f\u9c7c", 
+      "uid": 1200964, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "75.07%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/B6E3BD42555F763E7F06446F9FAAF500/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9648\u6d0115", 
+      "uid": 1523614, 
+      "post_num": 0, 
+      "comment_num": 13, 
+      "grade_percent": "95.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5c0f\u7070\u7070312694", 
+      "uid": 2848532, 
+      "post_num": 0, 
+      "comment_num": 39, 
+      "grade_percent": "55.41%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/7E764193FCBCEFE3102B326B71A86C52/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Pansweet", 
+      "uid": 2668142, 
+      "post_num": 0, 
+      "comment_num": 61, 
+      "grade_percent": "87.32%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e00\u6c34\u827e\u590f", 
+      "uid": 1639722, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "0.00%", 
+      "avatar": "", 
+      "group_id": "-2"
+    }, 
+    {
+      "username": "Ericayik", 
+      "uid": 704439, 
+      "post_num": 0, 
+      "comment_num": 58, 
+      "grade_percent": "74.88%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-704439-20160311194012.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u51b5\u5c0f\u4e5d\u513f", 
+      "uid": 2904411, 
+      "post_num": 0, 
+      "comment_num": 7, 
+      "grade_percent": "2.44%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/E0grphd4YtowkPV2cyEYfXJztswdQWwib3nue3BibysrvTyMRbCb3zeCYGApDjpLJyibWQNRgF1VFcIJKO9S12b1Q/0", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5f90\u7396\u8f69", 
+      "uid": 2597658, 
+      "post_num": 0, 
+      "comment_num": 45, 
+      "grade_percent": "80.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "First impression", 
+      "uid": 2737670, 
+      "post_num": 0, 
+      "comment_num": 50, 
+      "grade_percent": "85.32%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/7D1BFC905137859B9849E44DEBA179F1/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9c81\u79cb\u7433", 
+      "uid": 2448567, 
+      "post_num": 0, 
+      "comment_num": 53, 
+      "grade_percent": "80.15%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5434\u96e8\u6850", 
+      "uid": 2907343, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "2.22%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u77f3\u5b50\u797a", 
+      "uid": 2573277, 
+      "post_num": 0, 
+      "comment_num": 55, 
+      "grade_percent": "78.17%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e36\u534a\u590f", 
+      "uid": 2713942, 
+      "post_num": 0, 
+      "comment_num": 61, 
+      "grade_percent": "87.80%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/683912091BEEB827521020EC8456A461/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Yang_jy594", 
+      "uid": 2531702, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "98.49%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "RonnieChow", 
+      "uid": 407815, 
+      "post_num": 2, 
+      "comment_num": 0, 
+      "grade_percent": "68.41%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u884c\u8d70\u7684\u9ec4\u6bb5\u5b50", 
+      "uid": 1635924, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "65.32%", 
+      "avatar": "http://tp3.sinaimg.cn/1800361474/50/5732275379/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5434\u6587\u5a34", 
+      "uid": 2527729, 
+      "post_num": 0, 
+      "comment_num": 31, 
+      "grade_percent": "90.29%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5f20\u76fc\u535a", 
+      "uid": 2512548, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "95.00%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2512548-20160123185510.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9ec4\u73ca", 
+      "uid": 2658040, 
+      "post_num": 0, 
+      "comment_num": 57, 
+      "grade_percent": "94.80%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9e23\u9e1f\u4e0d\u98de997831", 
+      "uid": 2665992, 
+      "post_num": 0, 
+      "comment_num": 44, 
+      "grade_percent": "75.27%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/D282AA0DF602C1382FCDE72130C77427/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "tsinghua_1789876779", 
+      "uid": 2808446, 
+      "post_num": 1, 
+      "comment_num": 38, 
+      "grade_percent": "88.68%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4fe1\u4e86\u4f60\u7684\u90aa", 
+      "uid": 2601424, 
+      "post_num": 0, 
+      "comment_num": 52, 
+      "grade_percent": "68.71%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6768\u6d0111510439", 
+      "uid": 2595615, 
+      "post_num": 0, 
+      "comment_num": 6, 
+      "grade_percent": "94.56%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2595615-20160220215142.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6797\u5915\u9633", 
+      "uid": 2749121, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "74.05%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "lzu_wum2015", 
+      "uid": 1520034, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "95.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "mamei_jing", 
+      "uid": 2908151, 
+      "post_num": 0, 
+      "comment_num": 29, 
+      "grade_percent": "0.00%", 
+      "avatar": "", 
+      "group_id": "-2"
+    }, 
+    {
+      "username": "\u54a9\u54a9135763", 
+      "uid": 2927460, 
+      "post_num": 0, 
+      "comment_num": 63, 
+      "grade_percent": "87.80%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/E5D3A1CE6470D46CCA26B944AEDC040A/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6a11\u6aa9\u7559\u58a8", 
+      "uid": 1075675, 
+      "post_num": 38, 
+      "comment_num": 94, 
+      "grade_percent": "0.00%", 
+      "avatar": "", 
+      "group_id": "999"
+    }, 
+    {
+      "username": "\u5185\u8c01", 
+      "uid": 2660058, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "64.88%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Drew269286", 
+      "uid": 2709723, 
+      "post_num": 0, 
+      "comment_num": 36, 
+      "grade_percent": "96.59%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/4705104C10E8EB3651499F8D63DD6C5A/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u65e0\u5948101191", 
+      "uid": 2664680, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "94.68%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/8E93C9E602C9302B79C82C2CD1048379/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u56ed\u6797\u5c0f\u9ec4", 
+      "uid": 569060, 
+      "post_num": 0, 
+      "comment_num": 20, 
+      "grade_percent": "13.63%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Kloppkop", 
+      "uid": 3002880, 
+      "post_num": 1, 
+      "comment_num": 44, 
+      "grade_percent": "80.24%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "XY04", 
+      "uid": 2641453, 
+      "post_num": 0, 
+      "comment_num": 51, 
+      "grade_percent": "79.44%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Victor612", 
+      "uid": 2549019, 
+      "post_num": 0, 
+      "comment_num": 35, 
+      "grade_percent": "81.98%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "lilifeng", 
+      "uid": 208654, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "90.68%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-208654-20151230161956.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "zhanguodian", 
+      "uid": 2787513, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "4.88%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u90fd\u5e02\u7537\u4eba", 
+      "uid": 2754452, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "54.27%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u4e09\u4eba\u6e38219025", 
+      "uid": 2914857, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "62.61%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/48BE0EF8A2CA52D73F5B3BF11EA720CD/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Macrohard", 
+      "uid": 2573437, 
+      "post_num": 0, 
+      "comment_num": 18, 
+      "grade_percent": "90.02%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2573437-20160215015341.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u72c2\u5927\u767d\u3002", 
+      "uid": 2742144, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "0.66%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/B6B59F1C8EA40F7A476FFF89FC9E48B9/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u7570\u7aef", 
+      "uid": 2645997, 
+      "post_num": 0, 
+      "comment_num": 11, 
+      "grade_percent": "6.98%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/D295EFB3803E86C69A50676628A74FF9/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u56e1\u4ed4\u5a7b\u5b50", 
+      "uid": 2847485, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "9.15%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u609f177051", 
+      "uid": 1227011, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "75.34%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/0C8C41FC133A528D4265C51D3FC498E5/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5feb\u4e00\u70b9\u7684\u8f66", 
+      "uid": 2686425, 
+      "post_num": 0, 
+      "comment_num": 15, 
+      "grade_percent": "92.34%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5c71\u4e2d\u6709\u9152\u4eca\u65e5\u4e0d\u5f52", 
+      "uid": 2638844, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "87.24%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u55b5R", 
+      "uid": 2625280, 
+      "post_num": 0, 
+      "comment_num": 41, 
+      "grade_percent": "87.05%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Tinsen", 
+      "uid": 2628573, 
+      "post_num": 0, 
+      "comment_num": 3, 
+      "grade_percent": "6.83%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2628573-20160226181308.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "donglin1996", 
+      "uid": 2710377, 
+      "post_num": 0, 
+      "comment_num": 30, 
+      "grade_percent": "34.39%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "JzzsfUrreaDhhioY", 
+      "uid": 3006411, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "28.46%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "sunset", 
+      "uid": 100964, 
+      "post_num": 1, 
+      "comment_num": 7, 
+      "grade_percent": "77.76%", 
+      "avatar": "1417676311663003.jpg", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "MachineWin", 
+      "uid": 1190549, 
+      "post_num": 0, 
+      "comment_num": 40, 
+      "grade_percent": "92.59%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6f58\u6668\u66e6", 
+      "uid": 3050759, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "4.88%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u7eff\u9886\u5dfe\u7ae5\u978b", 
+      "uid": 248602, 
+      "post_num": 1, 
+      "comment_num": 0, 
+      "grade_percent": "0.00%", 
+      "avatar": "http://storage.xuetangx.com/bbs/20150414/Green_Scarf.jpg", 
+      "group_id": "999"
+    }, 
+    {
+      "username": "hupuwei", 
+      "uid": 514469, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "2.44%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u54c6\u5566z\u732b", 
+      "uid": 2841499, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "80.37%", 
+      "avatar": "http://tp2.sinaimg.cn/1267681553/50/5707356162/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "K-Kiran", 
+      "uid": 2832858, 
+      "post_num": 0, 
+      "comment_num": 53, 
+      "grade_percent": "78.83%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2832858-20160401224019.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8d75\u65e5\u5929233", 
+      "uid": 1369251, 
+      "post_num": 0, 
+      "comment_num": 23, 
+      "grade_percent": "72.51%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u660e\u6708\u591c105836", 
+      "uid": 3060589, 
+      "post_num": 0, 
+      "comment_num": 45, 
+      "grade_percent": "76.12%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/C64CA9EBFEC78FA6100070D83E2B8BAD/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "-Ruqkyyah-", 
+      "uid": 2667022, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "67.56%", 
+      "avatar": "http://tp3.sinaimg.cn/2328746894/50/5731684168/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "hebut_151162", 
+      "uid": 1405532, 
+      "post_num": 0, 
+      "comment_num": 44, 
+      "grade_percent": "93.76%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6e05\u6c34\u9753\u8377", 
+      "uid": 2813618, 
+      "post_num": 0, 
+      "comment_num": 7, 
+      "grade_percent": "61.63%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8d75\u7389\u831c", 
+      "uid": 2788975, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "95.85%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5341\u4e09\u59e8730517", 
+      "uid": 2788970, 
+      "post_num": 0, 
+      "comment_num": 25, 
+      "grade_percent": "78.68%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/DB0715F06FAF616B756870EE3D14D9C8/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u949f\u7b71\u851a", 
+      "uid": 2469818, 
+      "post_num": 0, 
+      "comment_num": 15, 
+      "grade_percent": "82.10%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u2265\ufe4f\u2264\ue13d\u26a1\u26a1", 
+      "uid": 2854569, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "78.41%", 
+      "avatar": "http://q.qlogo.cn/qqapp/1101680520/393CD571077B585E2DDE053E5736B667/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4fde\u91d1\u82b1", 
+      "uid": 2657425, 
+      "post_num": 0, 
+      "comment_num": 58, 
+      "grade_percent": "94.93%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "ping0302", 
+      "uid": 623821, 
+      "post_num": 0, 
+      "comment_num": 29, 
+      "grade_percent": "83.22%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8c22\u8c22\u4f60\u84dd\u7cbe\u7075", 
+      "uid": 2668732, 
+      "post_num": 0, 
+      "comment_num": 11, 
+      "grade_percent": "92.24%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/rOFdN8iclAcVEic9Y9JiaPb8CGqpjck7B47K3nySbWdsWj3TwOkCIH2jlBBZchFzh4W0WjZEd6Fo9qPuL5kFqibHNL7AmrAPO03N/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "floratian", 
+      "uid": 175119, 
+      "post_num": 1, 
+      "comment_num": 0, 
+      "grade_percent": "6.17%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5b81\u4e0d\u8d1f\u537f", 
+      "uid": 2671732, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "94.10%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7834\u6653\u540e\u7684\u6668\u66e6", 
+      "uid": 2522963, 
+      "post_num": 0, 
+      "comment_num": 56, 
+      "grade_percent": "95.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8131\u5b89\u742a", 
+      "uid": 2705736, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "39.29%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "eyleven", 
+      "uid": 2715511, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "79.54%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u2018\u90a3\u4e9b\u8a93\u8a00\u3001\u8352\u5e9f\u6d41\u5e74\u309d101252", 
+      "uid": 2721338, 
+      "post_num": 1, 
+      "comment_num": 47, 
+      "grade_percent": "77.41%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/2FC6AFAC42F61EA299ABDEB575B1C70F/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "sirblitz", 
+      "uid": 2946543, 
+      "post_num": 0, 
+      "comment_num": 44, 
+      "grade_percent": "38.07%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2946543-20160516162921.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u4e8c\u5916\u66f9\u68a6\u4f1f", 
+      "uid": 2905400, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "63.02%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "egchiulydiawu", 
+      "uid": 3019104, 
+      "post_num": 0, 
+      "comment_num": 7, 
+      "grade_percent": "78.27%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "HIT1150340116", 
+      "uid": 2647628, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "4.63%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u9010\u7231\u5929\u6daf", 
+      "uid": 2713771, 
+      "post_num": 0, 
+      "comment_num": 24, 
+      "grade_percent": "28.07%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "itswritten", 
+      "uid": 2687547, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "79.78%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "cc1153450110", 
+      "uid": 1199799, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "6.83%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u963f\u5c14\u5fd2\u5f25\u65af", 
+      "uid": 2459706, 
+      "post_num": 0, 
+      "comment_num": 16, 
+      "grade_percent": "86.80%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2459706-20160108203232.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5411\u4e0a\u5427\u5c11\u5e74\u96e8\u679c", 
+      "uid": 2769821, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "80.37%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8f9b\u5b66\u5c0a", 
+      "uid": 3032954, 
+      "post_num": 0, 
+      "comment_num": 6, 
+      "grade_percent": "49.73%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u8427\u9759\u5fc3", 
+      "uid": 2769826, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "4.88%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u4e1c\u4e34\u5e84\u4e3b", 
+      "uid": 2785527, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "93.63%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "lzszqsy", 
+      "uid": 2600045, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "36.54%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u8212\u96e8\u8587", 
+      "uid": 2865925, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "5.68%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2865925-20160409212838.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u6b64\u5fc3\u968f\u98ce", 
+      "uid": 2847001, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "58.95%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/EADD5F972AC13475E22FC0FDC09059F2/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "ENDless800548", 
+      "uid": 2779133, 
+      "post_num": 0, 
+      "comment_num": 52, 
+      "grade_percent": "76.71%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/E0grphd4YtrNcvs2LqYjx7EOZMXzuAd8FPJT6ZkibfStfpuZep3qeKRvfYROpaGB4tomXywz88zP8yic9qt5QbywVeMzxUlWc8/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "YikiDong", 
+      "uid": 1102886, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "93.85%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-1102886-20160331160052.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4ed8\u4e1c\u98ce", 
+      "uid": 2705451, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "77.93%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "super\u6c5f\u5357\u6155\u67ab", 
+      "uid": 2713703, 
+      "post_num": 0, 
+      "comment_num": 55, 
+      "grade_percent": "87.80%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "dudulucky", 
+      "uid": 139290, 
+      "post_num": 0, 
+      "comment_num": 13, 
+      "grade_percent": "79.56%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "sober; !", 
+      "uid": 2998796, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "28.80%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/FA45028EF3106721DA65E3BC44A5B915/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u84dd\u6ce2\u6ce2\u5976\u7c89", 
+      "uid": 2659328, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "83.15%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7518\u9053\u592b\u6ca1\u6709\u7231\u60c5", 
+      "uid": 1201638, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "7.32%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "ljy654", 
+      "uid": 2626272, 
+      "post_num": 0, 
+      "comment_num": 7, 
+      "grade_percent": "65.41%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "TamChorKwan", 
+      "uid": 730188, 
+      "post_num": 0, 
+      "comment_num": 3, 
+      "grade_percent": "11.27%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "wlzfrank2666", 
+      "uid": 669890, 
+      "post_num": 0, 
+      "comment_num": 24, 
+      "grade_percent": "21.66%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "yejerica", 
+      "uid": 118311, 
+      "post_num": 0, 
+      "comment_num": 13, 
+      "grade_percent": "6.61%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "BerNiCa-Acman", 
+      "uid": 2801619, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "40.71%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u67e0\u6aac\u6811\u4e0a\u7684\u6930\u679c", 
+      "uid": 2746846, 
+      "post_num": 0, 
+      "comment_num": 29, 
+      "grade_percent": "78.22%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "coconutzi", 
+      "uid": 2938720, 
+      "post_num": 0, 
+      "comment_num": 13, 
+      "grade_percent": "6.73%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5b66\u6d77\u65e0\u6dafnozuo", 
+      "uid": 2786274, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "75.22%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8840\u6e85\u672a\u592e", 
+      "uid": 2791902, 
+      "post_num": 0, 
+      "comment_num": 6, 
+      "grade_percent": "85.27%", 
+      "avatar": "http://tp4.sinaimg.cn/2445433791/50/5723081468/1", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u738b\u8096\u6960", 
+      "uid": 2643552, 
+      "post_num": 0, 
+      "comment_num": 61, 
+      "grade_percent": "91.49%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "wuwuwuyaya", 
+      "uid": 2908012, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "30.32%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u540c\u798f\u5ba2\u6808", 
+      "uid": 2443800, 
+      "post_num": 0, 
+      "comment_num": 62, 
+      "grade_percent": "100.00%", 
+      "avatar": "", 
+      "group_id": "3"
+    }, 
+    {
+      "username": "\u843d\u7136\u7f62\u4e86", 
+      "uid": 2568261, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "79.20%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/29A7643BF01E2E0348811D0BD719121D/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u597d\u597d\u6df7\u8bfe\u5929\u5929\u5411\u4e0a", 
+      "uid": 2910318, 
+      "post_num": 0, 
+      "comment_num": 40, 
+      "grade_percent": "74.61%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "(*^_^*)", 
+      "uid": 2597264, 
+      "post_num": 0, 
+      "comment_num": 22, 
+      "grade_percent": "95.12%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/30B278E535EA03B9DCE08F00C5EE0633/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Layout", 
+      "uid": 155802, 
+      "post_num": 0, 
+      "comment_num": 62, 
+      "grade_percent": "94.00%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5764\u513f\u7684\u7709\u6bdb", 
+      "uid": 2856621, 
+      "post_num": 0, 
+      "comment_num": 43, 
+      "grade_percent": "79.00%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/uX4W2Mf1qxSnH6EVbeugw3jJe1shrdplzP1iaLrbK6THUboCFicVkUBQCdbicgwibJjufK90gqWhKqRBKN5VYfSy0qd21XJg8qfn/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u672a\u6765\u5411\u6211\u4f38\u624b", 
+      "uid": 2668212, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "52.37%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/C8D4215DA1AA885FEF2EBCC6B66C0822/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5c0f\u4f0f\u5929", 
+      "uid": 2786260, 
+      "post_num": 0, 
+      "comment_num": 46, 
+      "grade_percent": "74.88%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/D7DB489917ABB52493FECEBD05DEBD6C/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Suzaku\u5914", 
+      "uid": 2430381, 
+      "post_num": 0, 
+      "comment_num": 39, 
+      "grade_percent": "98.88%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2430381-20160307172222.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5403\u4e66", 
+      "uid": 2726602, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "83.34%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6211\u53c8\u6389\u4e86\u4e00\u6bdb\u94b1", 
+      "uid": 2652118, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "75.54%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2652118-20160303203604.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u543c\u543c\u543c158112", 
+      "uid": 2659717, 
+      "post_num": 0, 
+      "comment_num": 3, 
+      "grade_percent": "93.73%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/rOFdN8iclAcWxReQ1RUX5vicZekBGfERWWDwXGLibnYKHPD5ibibxTicaoodg1wJdkx4EgsiaUKkqDYl9fUfiaXkhTEu515a870TvY1f/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e0d\u7559\u540d", 
+      "uid": 2502803, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "71.34%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Elmyinlny", 
+      "uid": 2675088, 
+      "post_num": 0, 
+      "comment_num": 61, 
+      "grade_percent": "93.41%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "zycjhcs", 
+      "uid": 2620470, 
+      "post_num": 0, 
+      "comment_num": 54, 
+      "grade_percent": "90.90%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2620470-20160301234522.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u67e0\u6800*290173", 
+      "uid": 2721566, 
+      "post_num": 0, 
+      "comment_num": 53, 
+      "grade_percent": "85.51%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/BAE77241412F49E04F71986339AF9D4F/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "ZeusJugg", 
+      "uid": 2510655, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "90.59%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u53e4\u9f99121491", 
+      "uid": 3140519, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "0.00%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/B2E3C71B8B150CC2652CC81D459B7FDB/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u4e09\u4e2b\u4e0d\u662f\u597d\u4e2b\u4e2b", 
+      "uid": 500181, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "13.27%", 
+      "avatar": "http://tp4.sinaimg.cn/1902699883/50/5682674286/0", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u60a0\u5fe7", 
+      "uid": 1201232, 
+      "post_num": 0, 
+      "comment_num": 14, 
+      "grade_percent": "5.68%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u7edd\u4e16\u5c0f\u74dc", 
+      "uid": 2447170, 
+      "post_num": 0, 
+      "comment_num": 16, 
+      "grade_percent": "84.07%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2447170-20160209144118.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Alfred9691", 
+      "uid": 2598601, 
+      "post_num": 0, 
+      "comment_num": 16, 
+      "grade_percent": "94.76%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6d82\u4e91-11410318", 
+      "uid": 2620933, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "74.66%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2620933-20160229233055.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "schwips", 
+      "uid": 2786745, 
+      "post_num": 0, 
+      "comment_num": 15, 
+      "grade_percent": "47.39%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u753b\u5f92", 
+      "uid": 2667949, 
+      "post_num": 0, 
+      "comment_num": 46, 
+      "grade_percent": "67.61%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6fc0\u60c5\u6f8e\u6e43\u7684\u5c0f\u9752\u6625", 
+      "uid": 2896681, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "73.93%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6708\u5149\u4e0b\u7684\u51e4\u7af9\u6d77", 
+      "uid": 2755188, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "0.00%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2755188-20160316192028.png", 
+      "group_id": "-2"
+    }, 
+    {
+      "username": "\u738b\u6653\u5a67", 
+      "uid": 2632133, 
+      "post_num": 0, 
+      "comment_num": 61, 
+      "grade_percent": "99.80%", 
+      "avatar": "", 
+      "group_id": "-2"
+    }, 
+    {
+      "username": "\u677e\u95f4\u5c71\u6708", 
+      "uid": 1581935, 
+      "post_num": 0, 
+      "comment_num": 8, 
+      "grade_percent": "70.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6885\u5c14\u57fa\u4e9a\u5fb7\u65af", 
+      "uid": 494280, 
+      "post_num": 0, 
+      "comment_num": 28, 
+      "grade_percent": "72.37%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-494280-20160402180438.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "HebustSEM_1505454375", 
+      "uid": 1960116, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "78.61%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "mirosar", 
+      "uid": 2576533, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "46.93%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2576533-20160216134732.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "xf\u3001 \u2121", 
+      "uid": 2645738, 
+      "post_num": 0, 
+      "comment_num": 44, 
+      "grade_percent": "72.93%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/4AD93E8635D101DDF293B9C894C9ED7D/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e95\u9896", 
+      "uid": 2686937, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "1.42%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Lidawong", 
+      "uid": 2597044, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "78.39%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7530\u5e7f\u7530", 
+      "uid": 2869357, 
+      "post_num": 0, 
+      "comment_num": 8, 
+      "grade_percent": "55.76%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u51af\u65b0\u519b", 
+      "uid": 2504096, 
+      "post_num": 0, 
+      "comment_num": 58, 
+      "grade_percent": "94.46%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "HebustSEM_150602301", 
+      "uid": 1178295, 
+      "post_num": 0, 
+      "comment_num": 11, 
+      "grade_percent": "42.41%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "sherry_77777", 
+      "uid": 3022379, 
+      "post_num": 0, 
+      "comment_num": 12, 
+      "grade_percent": "28.05%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "-\u6811\u86d9", 
+      "uid": 2586764, 
+      "post_num": 0, 
+      "comment_num": 18, 
+      "grade_percent": "11.90%", 
+      "avatar": "http://tp4.sinaimg.cn/1802775111/50/5723716097/0", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u6e05\u96ea\u5bd2", 
+      "uid": 2482315, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "75.34%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2482315-20160115114756.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "BruceGao", 
+      "uid": 946212, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "2.44%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-946212-20160219211931.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u77e5\u8db3\u5e38", 
+      "uid": 2517609, 
+      "post_num": 0, 
+      "comment_num": 53, 
+      "grade_percent": "80.02%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/0335F6556868ED8329C2394424109B47/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Ra3en", 
+      "uid": 2480461, 
+      "post_num": 0, 
+      "comment_num": 44, 
+      "grade_percent": "78.05%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8f7b\u84dd", 
+      "uid": 2993870, 
+      "post_num": 0, 
+      "comment_num": 15, 
+      "grade_percent": "90.90%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/2F9E001951B248D25C8706CE015DD15F/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5f20\u6893\u8431", 
+      "uid": 2707658, 
+      "post_num": 2, 
+      "comment_num": 0, 
+      "grade_percent": "25.37%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2707658-20160308104653.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u65e0\u5fc3263661", 
+      "uid": 1639954, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "2.44%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/028811FE768B5C7ABADD1EE9AE13F5B0/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u4f24\u5fc3\u7ae5\u8bdd", 
+      "uid": 2503865, 
+      "post_num": 0, 
+      "comment_num": 59, 
+      "grade_percent": "95.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6aac\u6aac\u3002", 
+      "uid": 2733277, 
+      "post_num": 0, 
+      "comment_num": 57, 
+      "grade_percent": "88.46%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/A2677473F4614A20ACAC3FD7950A4C2F/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "chenwy1997", 
+      "uid": 2484401, 
+      "post_num": 0, 
+      "comment_num": 53, 
+      "grade_percent": "79.41%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4faf\u6613\u5b97", 
+      "uid": 1554467, 
+      "post_num": 0, 
+      "comment_num": 16, 
+      "grade_percent": "97.37%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-1554467-20160105102452.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8096\u5f90\u5218\u6b66", 
+      "uid": 2666746, 
+      "post_num": 0, 
+      "comment_num": 43, 
+      "grade_percent": "69.22%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8bf7\u53eb\u6211\u6d77\u6dc0\u6865\u5317\u64a9\u59b9\u5c0f\u80fd\u624b", 
+      "uid": 2490152, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "0.00%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/uX4W2Mf1qxRySLZHtjumG7RJBbFtA98mTsEZGc7Zx4P1KnZc0SvibJXTxCcVuEPKV0NYicBgsS4eicbHoPUBedSwl6nibo8t62gK/0", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "baomi", 
+      "uid": 514371, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "0.00%", 
+      "avatar": "", 
+      "group_id": "-2"
+    }, 
+    {
+      "username": "sephzibah", 
+      "uid": 356418, 
+      "post_num": 0, 
+      "comment_num": 3, 
+      "grade_percent": "79.73%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "hebut_1092888410", 
+      "uid": 1993731, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "1.22%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "ldf2222", 
+      "uid": 3005732, 
+      "post_num": 1, 
+      "comment_num": 17, 
+      "grade_percent": "76.98%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u91c9\u4e0b\u5f69", 
+      "uid": 2572554, 
+      "post_num": 0, 
+      "comment_num": 59, 
+      "grade_percent": "85.56%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "bychina", 
+      "uid": 214031, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "86.10%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9ec4\u5fc3\u602111510434", 
+      "uid": 2457324, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "95.02%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2457324-20160126104921.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6211\u8fd8\u6382\u7740\u811a\u601d\u5ff5", 
+      "uid": 2640868, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "85.98%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5468\u73ca\u73ca", 
+      "uid": 2641101, 
+      "post_num": 0, 
+      "comment_num": 63, 
+      "grade_percent": "91.49%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "minsheng", 
+      "uid": 84686, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "4.29%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u80e1\u5df4\u96e8\u4eba", 
+      "uid": 2652010, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "53.20%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Ashley( ^\u03c9^ )\u6797\u96e8\u8bd7", 
+      "uid": 3043965, 
+      "post_num": 0, 
+      "comment_num": 31, 
+      "grade_percent": "81.44%", 
+      "avatar": "http://wx.qlogo.cn/mmopen/E0grphd4YtpMPAMXUNuv5F1yOEe1MEH38VV5t0C4iaLFzSec0qVAA8JO7xeb6iaqUGpE9x9NkSKtqcFP5nfTSb2XJ46PxMs91U/0", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "HarveyJZY", 
+      "uid": 1830583, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "77.68%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u54c8\u5de5\u5927\u7535\u554607", 
+      "uid": 1197647, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "99.07%", 
+      "avatar": "", 
+      "group_id": "-2"
+    }, 
+    {
+      "username": "\u534e\u6f6d\u6668", 
+      "uid": 2658061, 
+      "post_num": 0, 
+      "comment_num": 61, 
+      "grade_percent": "95.12%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5170\u5dde\u5927\u5b6615\u7545\u749e", 
+      "uid": 2664592, 
+      "post_num": 0, 
+      "comment_num": 59, 
+      "grade_percent": "89.34%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "ldx11410041", 
+      "uid": 2600751, 
+      "post_num": 0, 
+      "comment_num": 56, 
+      "grade_percent": "85.37%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7f04\u9ed8Silences", 
+      "uid": 1493333, 
+      "post_num": 0, 
+      "comment_num": 60, 
+      "grade_percent": "92.37%", 
+      "avatar": "http://tp4.sinaimg.cn/2016629111/50/5738024384/1", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "miu miu930096", 
+      "uid": 2574415, 
+      "post_num": 0, 
+      "comment_num": 55, 
+      "grade_percent": "75.51%", 
+      "avatar": "http://q.qlogo.cn/qqapp/1101680520/AD50D3DE2BFD91731F9CE433A7485371/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "morlandyu", 
+      "uid": 40905, 
+      "post_num": 0, 
+      "comment_num": 34, 
+      "grade_percent": "72.51%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Lhasa242701", 
+      "uid": 2528798, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "8.98%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/6166B600229F835756E53C2A3FC964C7/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u602a\u543e", 
+      "uid": 2721552, 
+      "post_num": 0, 
+      "comment_num": 36, 
+      "grade_percent": "43.78%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/FFD531B452D6A8187F28B7DBB64D3974/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5f20\u5c11\u534esustc", 
+      "uid": 2678230, 
+      "post_num": 0, 
+      "comment_num": 25, 
+      "grade_percent": "97.80%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Halsey", 
+      "uid": 2895552, 
+      "post_num": 0, 
+      "comment_num": 3, 
+      "grade_percent": "84.44%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2895552-20160411193242.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9648\u4f73\u8c6a", 
+      "uid": 2517839, 
+      "post_num": 0, 
+      "comment_num": 22, 
+      "grade_percent": "74.44%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2517839-20160217194751.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "UNIQUE_HE", 
+      "uid": 2481564, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "91.46%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6c34\u672a\u6b62", 
+      "uid": 2618249, 
+      "post_num": 0, 
+      "comment_num": 53, 
+      "grade_percent": "91.95%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u60dc\u6708810673", 
+      "uid": 2780116, 
+      "post_num": 0, 
+      "comment_num": 27, 
+      "grade_percent": "76.80%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/6300FF2CEDC4C03A54B67004EF4C86CE/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u7559\u56ed", 
+      "uid": 1580347, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "8.90%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-1580347-20160409152540.png", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u665a\u98ce195815", 
+      "uid": 1582321, 
+      "post_num": 0, 
+      "comment_num": 10, 
+      "grade_percent": "92.22%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/79C0D444856740AF8DC849E5DBB4878A/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u8d75\u660e\u8bda", 
+      "uid": 2677400, 
+      "post_num": 0, 
+      "comment_num": 3, 
+      "grade_percent": "4.88%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u4e0e\u6211\u5e38\u5728245076", 
+      "uid": 3031360, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "15.85%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/A15E2BF0FB6112AF213CB06D3733CAF7/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "SuperBall", 
+      "uid": 2645496, 
+      "post_num": 0, 
+      "comment_num": 29, 
+      "grade_percent": "75.10%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6881\u6653\u8fdc", 
+      "uid": 1439293, 
+      "post_num": 0, 
+      "comment_num": 22, 
+      "grade_percent": "76.90%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "huangzj39", 
+      "uid": 2939846, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "92.68%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u9686\u79cb", 
+      "uid": 2666029, 
+      "post_num": 0, 
+      "comment_num": 58, 
+      "grade_percent": "95.02%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5b89\u5b81piggy", 
+      "uid": 3002958, 
+      "post_num": 0, 
+      "comment_num": 34, 
+      "grade_percent": "80.49%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Yana\u5b89\u598d", 
+      "uid": 2715656, 
+      "post_num": 0, 
+      "comment_num": 6, 
+      "grade_percent": "94.78%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2715656-20160323170043.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u00b0\u5c1a\u6e05\u7834\u4e91", 
+      "uid": 683384, 
+      "post_num": 0, 
+      "comment_num": 45, 
+      "grade_percent": "90.12%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/F1E59876DD06BC0AF59F49FD13950EAF/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "starrynight145305", 
+      "uid": 1651553, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "78.15%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/29BBC26C263372E85327E24AAA720C2A/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5c39\u4e1c\u4e5d", 
+      "uid": 2710002, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "9.34%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Jovi", 
+      "uid": 9423, 
+      "post_num": 0, 
+      "comment_num": 11, 
+      "grade_percent": "37.46%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "Me\u7684\u7f51\u540d", 
+      "uid": 1372292, 
+      "post_num": 0, 
+      "comment_num": 19, 
+      "grade_percent": "46.88%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/181754858440FEAD22AAF5C6F74C1FBC/40", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u53b6\u5c0f\u767d", 
+      "uid": 2779969, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "72.76%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/4EB134CD53F9AC07376781D6C2189376/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u5355\u5e73\u5e73", 
+      "uid": 2730068, 
+      "post_num": 0, 
+      "comment_num": 1, 
+      "grade_percent": "69.37%", 
+      "avatar": "http://storage.xuetangx.com/xuetangx/users/info/avatar/avatar-2730068-20160312111526.png", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u767d\u6c34\u6d45\u8471", 
+      "uid": 2466231, 
+      "post_num": 0, 
+      "comment_num": 46, 
+      "grade_percent": "74.37%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/1CA396772131B8FA5C1FAC513DF004AD/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u674e\u6dd1\u6167\u7b28\u7b28", 
+      "uid": 2943583, 
+      "post_num": 0, 
+      "comment_num": 6, 
+      "grade_percent": "12.80%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u6da9\u841d", 
+      "uid": 2717277, 
+      "post_num": 0, 
+      "comment_num": 53, 
+      "grade_percent": "78.39%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6c50221606", 
+      "uid": 2735129, 
+      "post_num": 0, 
+      "comment_num": 16, 
+      "grade_percent": "94.49%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/7C677CB1580E9224BAD8F93679CF08B1/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u4e00\u652f\u70df\u7684\u65f6\u95f4", 
+      "uid": 2660219, 
+      "post_num": 1, 
+      "comment_num": 1, 
+      "grade_percent": "80.10%", 
+      "avatar": "", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "Amberluluby", 
+      "uid": 2857184, 
+      "post_num": 0, 
+      "comment_num": 4, 
+      "grade_percent": "7.32%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u5468\u5b5d\u6ce2", 
+      "uid": 2644540, 
+      "post_num": 0, 
+      "comment_num": 5, 
+      "grade_percent": "1.75%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u25d5 \u032f\u0361\u25d5\u7ad9\u5728\u575f\u5934\u6307\u6325\u9b3c", 
+      "uid": 2827893, 
+      "post_num": 0, 
+      "comment_num": 36, 
+      "grade_percent": "90.07%", 
+      "avatar": "http://q.qlogo.cn/qqapp/101148549/73F3E970970D715CF37265BA8016B480/40", 
+      "group_id": "2"
+    }, 
+    {
+      "username": "\u6d41\u5c9a\u9721\u9702", 
+      "uid": 2508406, 
+      "post_num": 0, 
+      "comment_num": 2, 
+      "grade_percent": "0.41%", 
+      "avatar": "", 
+      "group_id": "1"
+    }, 
+    {
+      "username": "\u675c\u715c\u6668", 
+      "uid": 2491968, 
+      "post_num": 0, 
+      "comment_num": 9, 
+      "grade_percent": "79.41%", 
+      "avatar": "", 
+      "group_id": "2"
+    }
+  ], 
+  "success": true
+}

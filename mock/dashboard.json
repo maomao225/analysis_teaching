@@ -1,0 +1,205 @@
+{
+  "msg": "", 
+  "groups": [
+    {
+      "modules": [
+        {
+          "name": "course_heat_stat", 
+          "title": "course heat", 
+          "interfaces": {
+            "indexVitalityMooc": "/mock/course_heat_stat.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "vitalityMooc.html", 
+          "size": {
+            "col": 6, 
+            "row": 6
+          }
+        }, 
+        {
+          "name": "student_distribution", 
+          "title": "\u4e86\u89e3\u5b66\u5458", 
+          "interfaces": {
+            "indexRegional": "/mock/student_distribution.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "regional.html", 
+          "size": {
+            "col": 3, 
+            "row": 3
+          }
+        }, 
+        {
+          "name": "student_from_tsinghua", 
+          "title": "\u7279\u522b\u5173\u6ce8", 
+          "interfaces": {
+            "indexAttentionMooc": "/mock/student_from_tsinghua.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "attentionMooc.html", 
+          "size": {
+            "col": 3, 
+            "row": 3
+          }
+        }
+      ], 
+      "name": "", 
+      "template": "tpl_right", 
+      "title": ""
+    }, 
+    {
+      "modules": [
+        {
+          "name": "student_study_actively_small", 
+          "title": "\u5b66\u4e60\u6d3b\u8dc3", 
+          "interfaces": {
+            "indexAttention": "/mock/course_total_enrollment.json", 
+            "indexInactive": "/mock/student_study_actively.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "inactive.html", 
+          "size": {
+            "col": 3, 
+            "row": 3
+          }
+        }, 
+        {
+          "name": "student_study_frequency", 
+          "title": "\u5b66\u4e60\u4e60\u60ef", 
+          "interfaces": {
+            "indexHabit": "/mock/student_study_frequency.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "habit.html", 
+          "size": {
+            "col": 3, 
+            "row": 3
+          }
+        }, 
+        {
+          "name": "student_grade_distribution", 
+          "title": "\u5f97\u5206\u5206\u5e03", 
+          "interfaces": {
+            "indexScore": "/mock/student_grade_distribution.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "score.html", 
+          "size": {
+            "col": 3, 
+            "row": 3
+          }
+        }
+      ], 
+      "name": "", 
+      "template": "tpl_small", 
+      "title": ""
+    }, 
+    {
+      "modules": [
+        {
+          "name": "student_study_process_detail", 
+          "title": "\u5b66\u4e60\u8fdb\u5ea6", 
+          "interfaces": {
+            "indexScheduleScore": "/statistics/2.0/interface/course_exam_stat?course_id=course-v1:TsinghuaX+80000901X+2016_T1", 
+            "indexScheduleExamSeqDetail": "/statistics/2.0/interface/course_exam_detail?course_id=course-v1:TsinghuaX+80000901X+2016_T1", 
+            "indexDotmatrix": "/mock/course_chapter_students.json", 
+            "indexProcess": "/mock/course_chapter_detail_v2.json", 
+            "indexAttention": "/mock/course_total_enrollment.json", 
+            "indexScheduleExamStudentScore": "/statistics/2.0/interface/course_exam_students?course_id=course-v1:TsinghuaX+80000901X+2016_T1", 
+            "indexScheduleExam": "/mock/course_exam.json", 
+            "indexChapter": "/mock/course_chapter_stat.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "schedule.html", 
+          "size": {
+            "col": 9, 
+            "row": 9
+          }
+        }
+      ], 
+      "name": "", 
+      "template": "tpl_one", 
+      "title": ""
+    }, 
+    {
+      "modules": [
+        {
+          "name": "course_discussion", 
+          "title": "\u4e92\u52a8\u6a21\u5f0f", 
+          "interfaces": {
+            "indexTotalPostNum": "/mock/course_total_posts_count.json", 
+            "indexPostRelation": "/mock/student_posts_relation.json", 
+            "indexPostStatistics": "/mock/course_post_group_stat.json", 
+            "indexTotalCommentNum": "/mock/course_total_comments_count.json", 
+            "indexCommentRank": "/mock/course_comment_students_rank.json", 
+            "indexStudentPost": "/mock/student_posts_detail.json", 
+            "indexNoCommentPosts": "/mock/no_comment_posts_count.json", 
+            "indexNoCommentPostsEveryday": "/mock/no_comment_posts_daily.json", 
+            "indexPostRank": "/mock/course_post_students_rank.json", 
+            "indexPostStatisticsDaily": "/mock/course_post_stat_daily.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "interactMode.html", 
+          "size": {
+            "col": 9, 
+            "row": 9
+          }
+        }
+      ], 
+      "name": "", 
+      "template": "tpl_one", 
+      "title": ""
+    }, 
+    {
+      "modules": [
+        {
+          "name": "moocFooter", 
+          "title": "moocFooter", 
+          "interfaces": {
+            "indexLogdate": "/mock/course_query_date.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "moocFooter.html", 
+          "size": {
+            "col": 9, 
+            "row": 9
+          }
+        }
+      ], 
+      "name": "", 
+      "template": "tpl_one", 
+      "title": ""
+    }, 
+    {
+      "modules": [
+        {
+          "name": "course_dropout_prediction", 
+          "title": "\u6d41\u5931\u9884\u6d4b", 
+          "interfaces": {
+            "indexForecast": "/mock/course_dropout_prediction.json"
+          }, 
+          "flag": 1, 
+          "version": "", 
+          "template": "forecast.html", 
+          "size": {
+            "col": 9, 
+            "row": 9
+          }
+        }
+      ], 
+      "name": "prediction", 
+      "template": "tpl_one", 
+      "title": ""
+    }
+  ], 
+  "success": true
+}

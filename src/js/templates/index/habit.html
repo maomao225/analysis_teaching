@@ -1,0 +1,10 @@
+<div class="title g_flex">
+	<h2>学习习惯</h2>
+	<div class="subtitle">
+		活跃时间热力图<b class="icon" popup popup-hash="habit" popup-position="bottom center">j</b>
+	</div>
+</div>
+<div index-habit>
+	<div class="mt15" d3-heat=":: d3Heat"></div>
+	<div class="hotspot" ng-if=":: d3Heat.study.length">热点：<span>{{:: hotspot}}</span></div>
+</div>

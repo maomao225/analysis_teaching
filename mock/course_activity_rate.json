@@ -1,0 +1,30 @@
+{
+  "msg": "", 
+  "weekly_active_rate": {
+    "ranking": {
+      "name": "", 
+      "value": 15
+    }, 
+    "active_num": {
+      "name": "", 
+      "value": 957
+    }, 
+    "percent": {
+      "name": "", 
+      "value": 0.1479
+    }, 
+    "total_course_num": {
+      "name": "", 
+      "value": 825
+    }, 
+    "overcome": {
+      "name": "", 
+      "value": 0.9818
+    }, 
+    "effective_student_num": {
+      "name": "", 
+      "value": 6470
+    }
+  }, 
+  "success": true
+}

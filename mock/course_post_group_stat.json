@@ -1,0 +1,41 @@
+{
+  "msg": "", 
+  "data": [
+    {
+      "count": 1, 
+      "comment_num": 94, 
+      "group_id": "999", 
+      "group_name": "\u52a9\u6559", 
+      "post_num": 39
+    }, 
+    {
+      "count": 4, 
+      "comment_num": 182, 
+      "group_id": "3", 
+      "group_name": "100\u5206\u5b66\u5458", 
+      "post_num": 0
+    }, 
+    {
+      "count": 516, 
+      "comment_num": 6768, 
+      "group_id": "2", 
+      "group_name": "60-99\u5206\u5b66\u5458", 
+      "post_num": 17
+    }, 
+    {
+      "count": 761, 
+      "comment_num": 832, 
+      "group_id": "1", 
+      "group_name": "60\u5206\u4ee5\u4e0b\u5b66\u5458", 
+      "post_num": 5
+    }, 
+    {
+      "count": 5187, 
+      "comment_num": 102, 
+      "group_id": "-2", 
+      "group_name": "\u672a\u7b54\u9898\u5b66\u5458", 
+      "post_num": 0
+    }
+  ], 
+  "success": true
+}

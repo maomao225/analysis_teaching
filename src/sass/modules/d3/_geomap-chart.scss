@@ -1,0 +1,19 @@
+.mapTip {
+    display:none;
+    background: rgba(255, 255, 255, 0.5);
+    position:absolute;
+    color:#000;
+    font-family: $num_font;
+}
+.mapTip .mapTip_index {
+	text-align: center;
+	padding: 10px 15px;
+	border: 1px solid #e0e6e8;
+}
+.mapTip .mapTip_index .map_pro {
+	font-size: 12px;
+}
+.mapTip .mapTip_index .map_r {
+	font-size: 24px;
+}
+

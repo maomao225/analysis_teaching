@@ -1,0 +1,12 @@
+<div class="title g_flex">
+	<h2>特别关注</h2>
+	<div class="subtitle">
+		清华·选修人数<b class="icon" popup popup-hash="tsinghua" popup-position="bottom center">j</b>
+	</div>
+</div>
+<div class="count g_num" ng-if=":: count">
+	{{:: count.tsinghua_count.toLocaleString()}}
+</div>
+<div class="empty" ng-if=":: !count.tsinghua_count">
+	暂无数据
+</div>

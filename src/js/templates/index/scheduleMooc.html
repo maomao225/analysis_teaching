@@ -1,0 +1,39 @@
+<div index-schedule-mooc>
+	<div class="title cf">
+		<h2 class="fl">学习进度</h2>
+		<div class="subtitle fl" ng-show=":: selectOption">
+			{{timeLag}} · {{titleChapterName}}<b class="icon" popup popup-position="bottom center" popup-hash="schedule">j</b>
+		</div>
+	</div>
+	<div class="cf"></div>
+	<div class="select_container" ng-show=":: selectOption">
+		<div class="chapters ui selection dropdown">
+			<input name="chapters" type="hidden" ng-model="selectModel">
+			<i class="dropdown icon"></i>
+			<div class="text"></div>
+			<div class="menu">
+				<div class="item" data-value="{{::m.id}}" ng-repeat= "m in :: selectOption">{{::m.name}}</div>
+			</div>
+		</div>
+		<!--<select ng-model="selectModel" ng-options="m.id as m.name for m in :: selectOption">-->
+		<!--</select>-->
+	</div>
+	<div ng-show="!loading">
+		<div class="g_flex">
+			<div class="g_flex1 study radial" d3-radial="study">
+			</div>
+			<div class="g_flex1">
+				<div class="video radial" d3-radial="video">
+				</div>
+				<div class="problem radial" d3-radial="problem">
+				</div>
+				<div class="discussion radial" d3-radial="discussion">
+				</div>
+			</div>
+		</div>
+		<div class="cobar" d3-cobar="cobar" cobar-total="curregisterTotal.regist_count" cobar-mooc="true">
+		</div>
+	</div>
+	<div class="loading" ng-show="loading" ng-include="'loading.html'">
+	</div>
+</div>

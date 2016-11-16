@@ -1,0 +1,296 @@
+{
+  "msg": "", 
+  "inactive": [
+    {
+      "revival": 84, 
+      "date": "2016-05-22", 
+      "new_inactive": 117, 
+      "inactive": 117, 
+      "active": 799, 
+      "newinactive": 117, 
+      "weekend": true
+    }, 
+    {
+      "revival": 47, 
+      "date": "2016-05-23", 
+      "new_inactive": 79, 
+      "inactive": 79, 
+      "active": 763, 
+      "newinactive": 79, 
+      "weekend": false
+    }, 
+    {
+      "revival": 47, 
+      "date": "2016-05-24", 
+      "new_inactive": 70, 
+      "inactive": 70, 
+      "active": 728, 
+      "newinactive": 70, 
+      "weekend": false
+    }, 
+    {
+      "revival": 49, 
+      "date": "2016-05-25", 
+      "new_inactive": 44, 
+      "inactive": 44, 
+      "active": 700, 
+      "newinactive": 44, 
+      "weekend": false
+    }, 
+    {
+      "revival": 59, 
+      "date": "2016-05-26", 
+      "new_inactive": 46, 
+      "inactive": 46, 
+      "active": 701, 
+      "newinactive": 46, 
+      "weekend": false
+    }, 
+    {
+      "revival": 47, 
+      "date": "2016-05-27", 
+      "new_inactive": 46, 
+      "inactive": 46, 
+      "active": 710, 
+      "newinactive": 46, 
+      "weekend": false
+    }, 
+    {
+      "revival": 48, 
+      "date": "2016-05-28", 
+      "new_inactive": 58, 
+      "inactive": 58, 
+      "active": 709, 
+      "newinactive": 58, 
+      "weekend": true
+    }, 
+    {
+      "revival": 78, 
+      "date": "2016-05-29", 
+      "new_inactive": 91, 
+      "inactive": 91, 
+      "active": 697, 
+      "newinactive": 91, 
+      "weekend": true
+    }, 
+    {
+      "revival": 60, 
+      "date": "2016-05-30", 
+      "new_inactive": 48, 
+      "inactive": 48, 
+      "active": 683, 
+      "newinactive": 48, 
+      "weekend": false
+    }, 
+    {
+      "revival": 71, 
+      "date": "2016-05-31", 
+      "new_inactive": 29, 
+      "inactive": 29, 
+      "active": 693, 
+      "newinactive": 29, 
+      "weekend": false
+    }, 
+    {
+      "revival": 46, 
+      "date": "2016-06-01", 
+      "new_inactive": 47, 
+      "inactive": 47, 
+      "active": 735, 
+      "newinactive": 47, 
+      "weekend": false
+    }, 
+    {
+      "revival": 40, 
+      "date": "2016-06-02", 
+      "new_inactive": 46, 
+      "inactive": 46, 
+      "active": 731, 
+      "newinactive": 46, 
+      "weekend": false
+    }, 
+    {
+      "revival": 64, 
+      "date": "2016-06-03", 
+      "new_inactive": 38, 
+      "inactive": 38, 
+      "active": 719, 
+      "newinactive": 38, 
+      "weekend": false
+    }, 
+    {
+      "revival": 50, 
+      "date": "2016-06-04", 
+      "new_inactive": 43, 
+      "inactive": 43, 
+      "active": 744, 
+      "newinactive": 43, 
+      "weekend": true
+    }, 
+    {
+      "revival": 84, 
+      "date": "2016-06-05", 
+      "new_inactive": 60, 
+      "inactive": 60, 
+      "active": 744, 
+      "newinactive": 60, 
+      "weekend": true
+    }, 
+    {
+      "revival": 51, 
+      "date": "2016-06-06", 
+      "new_inactive": 73, 
+      "inactive": 73, 
+      "active": 766, 
+      "newinactive": 73, 
+      "weekend": false
+    }
+  ], 
+  "data": [
+    {
+      "revival": 84, 
+      "date": "2016-05-22", 
+      "new_inactive": 117, 
+      "inactive": 117, 
+      "active": 799, 
+      "newinactive": 117, 
+      "weekend": true
+    }, 
+    {
+      "revival": 47, 
+      "date": "2016-05-23", 
+      "new_inactive": 79, 
+      "inactive": 79, 
+      "active": 763, 
+      "newinactive": 79, 
+      "weekend": false
+    }, 
+    {
+      "revival": 47, 
+      "date": "2016-05-24", 
+      "new_inactive": 70, 
+      "inactive": 70, 
+      "active": 728, 
+      "newinactive": 70, 
+      "weekend": false
+    }, 
+    {
+      "revival": 49, 
+      "date": "2016-05-25", 
+      "new_inactive": 44, 
+      "inactive": 44, 
+      "active": 700, 
+      "newinactive": 44, 
+      "weekend": false
+    }, 
+    {
+      "revival": 59, 
+      "date": "2016-05-26", 
+      "new_inactive": 46, 
+      "inactive": 46, 
+      "active": 701, 
+      "newinactive": 46, 
+      "weekend": false
+    }, 
+    {
+      "revival": 47, 
+      "date": "2016-05-27", 
+      "new_inactive": 46, 
+      "inactive": 46, 
+      "active": 710, 
+      "newinactive": 46, 
+      "weekend": false
+    }, 
+    {
+      "revival": 48, 
+      "date": "2016-05-28", 
+      "new_inactive": 58, 
+      "inactive": 58, 
+      "active": 709, 
+      "newinactive": 58, 
+      "weekend": true
+    }, 
+    {
+      "revival": 78, 
+      "date": "2016-05-29", 
+      "new_inactive": 91, 
+      "inactive": 91, 
+      "active": 697, 
+      "newinactive": 91, 
+      "weekend": true
+    }, 
+    {
+      "revival": 60, 
+      "date": "2016-05-30", 
+      "new_inactive": 48, 
+      "inactive": 48, 
+      "active": 683, 
+      "newinactive": 48, 
+      "weekend": false
+    }, 
+    {
+      "revival": 71, 
+      "date": "2016-05-31", 
+      "new_inactive": 29, 
+      "inactive": 29, 
+      "active": 693, 
+      "newinactive": 29, 
+      "weekend": false
+    }, 
+    {
+      "revival": 46, 
+      "date": "2016-06-01", 
+      "new_inactive": 47, 
+      "inactive": 47, 
+      "active": 735, 
+      "newinactive": 47, 
+      "weekend": false
+    }, 
+    {
+      "revival": 40, 
+      "date": "2016-06-02", 
+      "new_inactive": 46, 
+      "inactive": 46, 
+      "active": 731, 
+      "newinactive": 46, 
+      "weekend": false
+    }, 
+    {
+      "revival": 64, 
+      "date": "2016-06-03", 
+      "new_inactive": 38, 
+      "inactive": 38, 
+      "active": 719, 
+      "newinactive": 38, 
+      "weekend": false
+    }, 
+    {
+      "revival": 50, 
+      "date": "2016-06-04", 
+      "new_inactive": 43, 
+      "inactive": 43, 
+      "active": 744, 
+      "newinactive": 43, 
+      "weekend": true
+    }, 
+    {
+      "revival": 84, 
+      "date": "2016-06-05", 
+      "new_inactive": 60, 
+      "inactive": 60, 
+      "active": 744, 
+      "newinactive": 60, 
+      "weekend": true
+    }, 
+    {
+      "revival": 51, 
+      "date": "2016-06-06", 
+      "new_inactive": 73, 
+      "inactive": 73, 
+      "active": 766, 
+      "newinactive": 73, 
+      "weekend": false
+    }
+  ], 
+  "success": true
+}

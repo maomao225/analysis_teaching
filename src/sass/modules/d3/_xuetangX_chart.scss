@@ -1,0 +1,206 @@
+
+.xueTang_Chart path{
+	stroke:#9baeb2;
+	fill:none;
+}
+
+.chart_dateRang .tick{
+	fill:none;
+	stroke:#b8c5c8;
+}
+
+.chart_dateRang path{
+	stroke:#9baeb2;
+	fill:none;
+}
+.chart_dateRang .top--xAxisTicks path{
+	stroke: #cecfd0;
+	stroke-width: 3;
+}
+.chart_dateRang .lineChart--xAxis .tick{
+	stroke:#f49e94;
+}
+.chart_dateRang .lineChart--xAxis .tick text{
+	stroke: #343c47;
+	font-size: 9px;
+}
+.chart_dateRang path.data_path{
+	stroke:#5bbce5;
+	stroke-width: 2;
+	fill: none;
+
+}
+.chart_dateRang .leftSlide,.rightSlide{
+	fill:#009ee3;
+}
+.chart_dateRang rect{
+	fill:#a2a2a2;
+}
+
+/*
+multiChart使用的样式
+*/
+.xueTang_multiChart .tick{
+	fill:none;
+	stroke:#b8c5c8;
+
+}
+.xueTang_multiChart .tick line{
+	stroke-dasharray:6 6;
+}
+
+.xueTang_multiChart path{
+	stroke:#9baeb2;
+	fill:none;
+
+}
+.xueTang_multiChart .top--xAxisTicks path{
+	stroke: #cecfd0;
+	stroke-width: 3;
+}
+.xueTang_multiChart .lineChart--xAxis .tick{
+	stroke:#f49e94;
+}
+.xueTang_multiChart .lineChart--xAxis .tick text{
+	stroke: #343c47;
+	font-size: 9px;
+}
+.xueTang_multiChart path.data_path{
+	stroke:#FF6C5B;
+	stroke-width: 2;
+	fill: none;
+}
+.xueTang_multiChart path.data_path_out{
+	stroke:#FFFFFF;
+	stroke-width: 3;
+	fill: none;
+}
+
+.xueTang_multiChart path.dot{
+	stroke-dasharray:6 6;
+}
+
+.xueTang_multiChart .leftSlide,.rightSlide{
+	fill:#009ee3;
+}
+.xueTang_multiChart  .circleDot {
+	fill: white;
+	stroke:#FF6C5B;
+	stroke-width: 1.5px;
+}
+.xueTang_multiChart  .circleOut{
+	fill: white;
+}
+.xueTang_multiChart rect.opacity{
+	opacity: 0.5;
+}
+/*
+difficultAny使用的样式
+*/
+.xueTang_difficultyAny .tick{
+	fill:none;
+	stroke:#b8c5c8;
+}
+
+.xueTang_difficultyAny .circleEqual{
+	cursor: pointer;
+}
+
+.xueTang_difficultyAny .tick text{
+	fill: #99ABAF;
+	stroke: none;
+	font-size: 12px;
+	font-family: "num";
+}
+.xueTang_difficultyAny .y1 line{
+	stroke:#D4D4D4;
+	stroke-dasharray:2 2;
+}
+.xueTang_difficultyAny .data_path_section{
+	stroke:#7FCDE7;
+	stroke-dasharray:2 2;
+}
+
+.xueTang_difficultyAny .xueTang_chart_errorCircle{
+	fill: none;
+	stroke:#FF6C5B;
+	stroke-width: 2px;
+}
+.xueTang_difficultyAny .xueTang_chart_imageLocate{
+	cursor: pointer;
+	/*background-image: url("images/locate.png");*/
+}
+.xueTang_difficultyAny .xueTang_chart_imageLocate circle{
+	stroke:#25AFF1;
+	stroke-width: 4px;
+	fill:none;
+}
+.xueTang_difficultyAny .xueTang_chart_imageLocate path{
+	fill:#25AFF1;
+	stroke:none;
+}
+.xueTang_difficultyAny .hoverCircle{
+	fill: #25AFF1;
+	opacity: 0.2;
+}
+
+.xueTang_difficultyAny .hoverCircle_error{
+	fill: #FF6C5B;
+	opacity: 0.2;
+}
+
+.xueTang_difficultyAny .area{
+	stroke: none;
+}
+.xueTang_difficultyAny .timeSymbol path{
+	fill:#ffffff;
+	stroke: none;
+}
+/*
+.xueTang_difficultyAny .y1 .domain{
+	stroke: #ffffff;
+}
+*/
+/*
+xueTang_relationChart
+*/
+.xueTang_relationChart .disc_circle{
+	stroke: none;
+	opacity: 0.3;
+}
+.xueTang_relationChart .circle_circle{
+	stroke-width: 1px;
+	fill: none;
+}
+.xueTang_relationChart .link{
+	/*stroke-opacity: 0.4;*/
+	fill: none;
+}
+/*
+ 区域堆叠图
+*/
+.chart_stackArea  .tick{
+	fill:none;
+	stroke:#b8c5c8;
+}
+.chart_stackArea path{
+	stroke:#9baeb2;
+	fill:none;
+}
+.chart_stackArea .axis .tick{
+	stroke:#A1ABAF;
+}
+.chart_stackArea .axis .tick text{
+	fill: #A1ABAF;
+	font-size: 10px;
+	stroke: none;
+}
+.chart_stackArea .parentArea path{
+	stroke: none;
+}
+.chart_stackArea  .hideBar_line{
+	stroke:#009DE6;
+	stroke-width: 2px;
+	/*stroke-opacity: 0.4;*/
+	stroke-dasharray:4 2;
+}

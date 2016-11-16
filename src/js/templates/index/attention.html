@@ -1,0 +1,12 @@
+<div class="title g_flex">
+	<h2>特别关注</h2>
+	<div class="subtitle">
+		总选课人数<b class="icon" popup="" popup-position="bottom center" popup-hash="attention">j</b>
+	</div>
+</div>
+<div class="count g_num" ng-if=":: regist_count">
+	{{:: (regist_count.regist_count * 1).toLocaleString()}}
+</div>
+<div class="empty" ng-if=":: !regist_count">
+	暂无数据
+</div>

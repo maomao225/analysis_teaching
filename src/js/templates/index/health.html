@@ -1,0 +1,93 @@
+<div index-health>
+<div class="title g_flex">
+	<h2>课程健康度<b class="icon" popup popup-hash="health" popup-position="bottom center">j</b></h2>
+</div>
+<div class="radar mt20 mb20" d3-radar=":: d3Radar">
+</div>
+<div class="text">
+	<h3>学习者规模</h3>
+	<div class="floor">
+		<div class="g_flex odds">
+			<div class="count blue">
+				1
+			</div>
+			<div>
+				最近<span class="g_num">7</span>日活跃率<b class="icon" popup popup-hash="active" popup-position="bottom center">j</b>
+			</div>
+		</div>
+		<div class="data">
+			<span class="g_num">{{:: d3Radar.weekly_active_rate.percent.value ? (d3Radar.weekly_active_rate.percent.value * 100).toFixed(2) + '%' : '-'}}</span>&nbsp;&nbsp;<span class="g_num">{{:: d3Radar.weekly_active_rate.active_num.value ? d3Radar.weekly_active_rate.active_num.value.toLocaleString() : '-'}}</span>人
+		</div>
+		<div class="detail">
+			本课程超过了<span class="g_num">{{:: d3Radar.weekly_active_rate.overcome.value ? (d3Radar.weekly_active_rate.overcome.value * 100).toFixed(2) + '%' : '-'}}</span>的同期课程
+		</div>
+	</div>
+	<div class="floor">
+		<div class="g_flex odds">
+			<div class="count green">
+				2
+			</div>
+			<div>
+				学习者总规模<b class="icon" popup popup-hash="studyScale" popup-position="bottom center">j</b>
+			</div>
+		</div>
+		<div class="data">
+			<span class="g_num">{{:: d3Radar.registered_scale.total_enrolls.value ? d3Radar.registered_scale.total_enrolls.value.toLocaleString() : '-'}}</span>人
+		</div>
+		<div class="detail">
+			本课程超过了<span class="g_num">{{:: d3Radar.registered_scale.overcome.value ? (d3Radar.registered_scale.overcome.value * 100).toFixed(2) + '%' : '-'}}</span>的同期课程
+		</div>
+	</div>
+</div>
+<div class="text">
+	<h3>学习社区运营</h3>
+	<div class="floor">
+		<div class="g_flex odds">
+			<div class="count red">
+				3
+			</div>
+			<div>
+				论坛发帖回复率<b class="icon" popup popup-hash="reply" popup-position="bottom center">j</b>
+			</div>
+		</div>
+		<div class="data">
+			<span class="g_num">{{:: d3Radar.discussion_reply_rank.reply_percent.value ? (d3Radar.discussion_reply_rank.reply_percent.value * 100).toFixed(2) + '%' : '-'}}</span>&nbsp;&nbsp;仅<span class="g_num">{{:: d3Radar.discussion_reply_rank.no_reply_num.value ? d3Radar.discussion_reply_rank.no_reply_num.value.toLocaleString() : '-'}}</span>人未回复
+		</div>
+		<div class="detail">
+			本课程超过了<span class="g_num">{{:: d3Radar.discussion_reply_rank.overcome.value ? (d3Radar.discussion_reply_rank.overcome.value * 100).toFixed(2) + '%' : '-'}}</span>的同期课程
+		</div>
+	</div>
+	<div class="floor">
+		<div class="g_flex odds">
+			<div class="count purple">
+				4
+			</div>
+			<div>
+				讨论区人均互动次数<b class="icon" popup popup-hash="interaction" popup-position="bottom center">j</b>
+			</div>
+		</div>
+		<div class="data">
+			<span class="g_num">{{:: d3Radar.active_count_rank.avg_post_num.value ? d3Radar.active_count_rank.avg_post_num.value.toFixed(2) : '-'}}/</span>人
+		</div>
+		<div class="detail">
+			本课程超过了<span class="g_num">{{:: d3Radar.active_count_rank.overcome.value ? (d3Radar.active_count_rank.overcome.value * 100).toFixed(2) + '%' : '-'}}</span>的同期课程
+		</div>
+	</div>
+	<div class="floor">
+		<div class="g_flex odds">
+			<div class="count pink">
+				5
+			</div>
+			<div>
+				讨论区参与规模<b class="icon" popup popup-hash="discussionJoin" popup-position="bottom center">j</b>
+			</div>
+		</div>
+		<div class="data">
+			<span class="g_num">{{:: d3Radar.active_num_rank.active_num.value ? d3Radar.active_num_rank.active_num.value.toLocaleString() : '-'}}</span>人
+		</div>
+		<div class="detail">
+			本课程超过了<span class="g_num">{{:: d3Radar.active_num_rank.overcome.value ? (d3Radar.active_num_rank.overcome.value * 100).toFixed(2) + '%' : '-'}}</span>的同期课程
+		</div>
+	</div>
+</div>
+</div>

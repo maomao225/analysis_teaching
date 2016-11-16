@@ -1,0 +1,130 @@
+<div class="empty" ng-if=":: !speakTotalCount">
+	暂无数据
+</div>
+<div index-interactmode class="interactMode" ng-if=":: speakTotalCount">
+	<header class="header">
+		<div class="title">互动模式</div>
+		<div class="select_parent">
+			<div class="select switchMode ui selection dropdown">
+				<input name="switchMode" type="hidden">
+				<i class="dropdown icon"></i>
+				<div class="text"></div>
+				<div class="menu">
+					<div class="item" data-value="answerMode">问答模式分析</div>
+					<div class="item" data-value="netMode">社会网络分析</div>
+				</div>
+			</div>
+			<!--<select class="select switchMode" >-->
+			<!--<option value ="answerMode">问答模式分析</option>-->
+			<!--<option value ="netMode">社会网络分析</option>-->
+			<!--</select>-->
+		</div>
+		<div class="rightTips"><span>讨论区问答的交流模式</span><b popup-hash="interactMode_discuss" popup-position="bottom center" popup="" class="icon">j</b></div>
+	</header>
+	<div class="middle">
+		<div class="middle_2">
+			<div class="column3">
+				<div class="column3_section">
+					<header>总发帖数  <b popup-hash="interactMode_totalSpeakCount" popup-position="bottom center" popup="" class="icon">j</b></header>
+					<span class="g_num speakCount">{{::speakTotalCount.data}}</span>
+					<div>
+            <span>昨日<span class="g_num count_add">{{:: yesterday_postCount?'+':''}}{{::yesterday_postCount || (yesterday_postCount==0?'+0':'--')}}</span>
+                环比<span class="g_num" ng-class=":: {count_add: (postCountRatio > 0) || (!postCountRatio), count_reduce: postCountRatio < 0, icoup: ( postCountRatio >= 0 ) || !postCountRatio, icodown: (postCountRatio < 0)}">{{::postCountRatio_percent || '--'}}</span>
+            </span>
+					</div>
+				</div>
+			</div>
+			<div class="column3">
+				<div class="column3_section">
+					<header>总回帖数  <b popup-hash="interactMode_totalReplyCount" popup-position="bottom center" popup="" class="icon">j</b></header>
+					<span class="g_num speakCount">{{::indexTotalCommentNum.data}}</span>
+					<div>
+            <span>昨日<span class="g_num count_add">{{:: yesterday_commentCount?'+':''}}{{::yesterday_commentCount || (yesterday_commentCount==0?'+0':'--')}}</span>
+                环比<span class="g_num " ng-class=":: {count_add: (commentCountRatio > 0) || (!commentCountRatio), count_reduce: commentCountRatio < 0, icoup: (commentCountRatio >= 0) || !commentCountRatio, icodown: commentCountRatio < 0}">{{::commentCountRatio_percent || '--'}}</span>
+            </span>
+					</div>
+				</div>
+
+			</div>
+			<div class="column3">
+				<div class="column3_section">
+					<header>零回复帖子数  <b popup-hash="interactMode_zeroReplyCount" popup-position="bottom center" popup="" class="icon">j</b></header>
+					<span class="g_num speakCount zeroCount">{{::indexNoCommentPosts.data}}</span>
+					<div>
+            <span>昨日<span class="g_num count_add">{{:: yesterdayCount_noComment?'+':''}}{{::yesterdayCount_noComment || (yesterdayCount_noComment==0?'+0':'--')}}</span>
+                环比<span class="g_num" ng-class=":: {count_add: (noCommentRatio > 0) || (!noCommentRatio), count_reduce: noCommentRatio < 0,  icoup: (noCommentRatio >= 0) || !noCommentRatio, icodown: noCommentRatio < 0}">{{::noCommentRatio_percent || '--'}}</span>
+            </span>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+	<div class="middle_tow">
+		<div class="empty" style="padding-top: 2%;" ng-if=":: indexPostStatistics.data.length<=0">
+			暂无数据
+		</div>
+		<div id="leftChart" class="leftChart" ng-show=":: indexPostStatistics.data.length>0">
+		</div>
+		<div id="chart" ng-show=":: indexPostStatistics.data.length>0"></div>
+	</div>
+	<div class="split"></div>
+	<div>
+		<div class="left_section">
+			<div class="title">回帖排行Top5  <b popup-hash="interactMode_replyTop5" popup-position="bottom center" popup="" class="icon">j</b></div>
+
+			<div class="top_item comment" ng-repeat="d in indexCommentRank.data">
+				<span class="item_name" title="{{:: d.username}}">{{:: d.username}}</span><span class="g_num item_totalCount">{{:: d.total}}</span>
+				<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num yesterdayColor">＋{{:: d.count}}</span>
+				<div><div class="top_item_bar bar_total" style="background-color: {{:: groupColors[d.group_id]}};width:{{:: (d.total/top5_comment_max)*100}}%;"></div><div class="top_item_bar bar_count" style="width: {{:: (d.count/top5_comment_max)*100}}%;"></div></div>
+			</div>
+			<!--<div class="top_item">-->
+			<!--<span class="item_name">助教A</span><span class="g_num item_totalCount">239</span>-->
+			<!--<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num">＋30</span>-->
+			<!--</div>-->
+			<!--<div class="top_item">-->
+			<!--<span class="item_name">助教A</span><span class="g_num item_totalCount">239</span>-->
+			<!--<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num">＋30</span>-->
+			<!--</div>-->
+			<!--<div class="top_item">-->
+			<!--<span class="item_name">助教A</span><span class="g_num item_totalCount">239</span>-->
+			<!--<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num">＋30</span>-->
+			<!--</div>-->
+			<!--<div class="top_item">-->
+			<!--<span class="item_name">助教A</span><span class="g_num item_totalCount">239</span>-->
+			<!--<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num">＋30</span>-->
+			<!--</div>-->
+			<div class="title">发帖排行Top5  <b popup-hash="interactMode_speakTop5" popup-position="bottom center" popup="" class="icon">j</b></div>
+			<div class="top_item" ng-repeat="d in indexPostRank.data">
+				<span class="item_name" title="{{:: d.username}}">{{:: d.username}}</span><span class="g_num item_totalCount">{{:: d.total}}</span>
+				<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num yesterdayColor">＋{{:: d.count}}</span>
+				<div><div class="top_item_bar bar_total" style="background-color: {{:: groupColors[d.group_id]}};width:{{:: (d.total/top5_post_max)*100}}%;"></div><div class="top_item_bar bar_count" style="width: {{:: (d.count/top5_post_max)*100}}%;"></div></div>
+			</div>
+			<!--<div class="top_item">-->
+			<!--<span class="item_name">助教A</span><span class="g_num item_totalCount">239</span>-->
+			<!--<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num">＋30</span>-->
+			<!--</div>-->
+			<!--<div class="top_item">-->
+			<!--<span class="item_name">助教A</span><span class="g_num item_totalCount">239</span>-->
+			<!--<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num">＋30</span>-->
+			<!--</div>-->
+			<!--<div class="top_item">-->
+			<!--<span class="item_name">助教A</span><span class="g_num item_totalCount">239</span>-->
+			<!--<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num">＋30</span>-->
+			<!--</div>-->
+			<!--<div class="top_item">-->
+			<!--<span class="item_name">助教A</span><span class="g_num item_totalCount">239</span>-->
+			<!--<span>总计</span><span class="yesterdayCount">昨日</span><span class="g_num">＋30</span>-->
+			<!--</div>-->
+
+		</div>
+		<div class="empty"  ng-if=":: indexPostRelation.data.length<=0">
+			暂无数据
+		</div>
+
+		<div class="right_section" ng-show=":: indexPostRelation.data.length>0">
+			<div id="relationChart"></div>
+		</div>
+	</div>
+</div>

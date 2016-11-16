@@ -1,0 +1,100 @@
+.schedule, .schedule_mooc {
+    .username{
+	   span{
+	     padding-left: 4px;
+	  }
+    }
+	.exam-symbol{
+        font-size: 9px;
+		color: #F37469;
+        border: 1px solid #F37469;
+		border-radius: 2px;
+		margin-left: 5px;
+		padding: 0 4px;
+	}
+	.radial {
+		font-family: $num_font, Microsoft JhengHei, Microsoft YaHei;
+		.title {
+			fill: #343c47;
+		}
+
+		.subtitle {
+			fill: #9baeb2;
+		}
+
+		.detail {
+			fill: #616e7f;
+		}
+
+		.blue {
+			fill: #009ee3;
+		}
+
+		.legend {
+			cursor: default;
+		}
+	}
+
+	.cobar {
+		max-width: 100%;
+		overflow-x: auto;
+		.axis {
+			text {
+				font-size: 12px;
+				fill: #9baeb2;
+			}
+
+			line, path {
+				display: none;
+			}
+		}
+
+		.border-top {
+			shape-rendering: crispEdges;
+			stroke: #b9b9b9;
+		}
+
+		.reference {
+			shape-rendering: crispEdges;
+			stroke-dasharray: 2, 2;
+			opacity: 0.3;
+			stroke: #000000;
+		}
+
+		.chart:hover .background {
+			fill: #f6f7f7;
+		}
+
+		.bar-group {
+			.background {
+				transition: fill 0.5s;
+				fill: #ffffff;
+				stroke: #dddfe1;
+				shape-rendering: crispEdges;
+			}
+
+			.index {
+				cursor: default;
+				fill: #9baeb2;
+			}
+			.titleNo{
+				font-family: BebasNeueBold;
+			}
+
+			.title {
+				font-size: 10px;
+				fill: none;
+			}
+
+			&:hover {
+				.background {
+					fill: #ffffff;
+				}
+
+				.title {
+					fill: #343c47;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+<div index-header>
+	<header class="header">
+		<h1 class="logo"><a href="http://www.xuetangx.com"><img ng-src="{{:: staticDir}}/logo/logo.png" alt="学堂在线"></a></h1>
+		<p class="title g_flex1">{{:: courseName}}</p>
+		<div class="user_info g_flex">
+			<div class="feedback">
+				<span>f</span><a href="mailTo:data-feedback@xuetangx.com">反馈 • 意见</a>
+			</div>
+			<div class="avatar">
+				<img popup popup-hash="userInfo" popup-position="bottom right" popup-inline="true" ng-src="{{:: staticDir}}/icon/avatar.png">
+			</div>
+		</div>
+	</header>
+	<section class="header_progress g_flex">
+		<div class="inner">
+			<div class="icon" ng-class=":: {opacity: courseProgress[0] != 'process'}">
+				{{:: (courseProgress[0] == 'close' ? 'k' : courseProgress[0] == 'process' ? 'i' : 'h')}}
+			</div>
+			<p><span>&nbsp;&nbsp;报名</span>&nbsp;&nbsp;|&nbsp;&nbsp;{{:: (courseProgress[0] == 'close' ? '已结束' : courseProgress[0] == 'process' ? '报名中' : '未开放')}}</p>
+		</div>
+		<div class="inner">
+			<div class="icon" ng-class=":: {opacity: courseProgress[1] != 'process'}">
+				{{:: (courseProgress[1] == 'close' ? 'k' : courseProgress[1] == 'process' ? 'i' : 'h')}}
+			</div>
+			<p><span>&nbsp;&nbsp;开课</span>&nbsp;&nbsp;|&nbsp;&nbsp;{{:: (courseProgress[1] == 'close' ? '已结束' : courseProgress[1] == 'process' ? '开课中' : '未开课')}}</p>
+		</div>
+		<div class="inner">
+			<div class="icon" ng-class=":: {opacity: !courseProgress[2]}">
+				{{:: (courseProgress[2] ? 'k' : 'h')}}
+			</div>
+			<p><span>&nbsp;&nbsp;证书</span>&nbsp;&nbsp;|&nbsp;&nbsp;{{:: (courseProgress[2] ? '已完成' : '未开始')}}</p>
+		</div>
+		<div class="line"></div>
+		<div class="line line1"></div>
+	</section>
+</div>

@@ -1,0 +1,41 @@
+{
+  "msg": "", 
+  "data": [
+    {
+      "username": "\u6a11\u6aa9\u7559\u58a8", 
+      "total": 38, 
+      "group_id": 999, 
+      "uid": 1075675, 
+      "count": 0
+    }, 
+    {
+      "username": "\u987e\u82b3", 
+      "total": 8, 
+      "group_id": 2, 
+      "uid": 2664535, 
+      "count": 0
+    }, 
+    {
+      "username": "\u5f20\u6893\u8431", 
+      "total": 2, 
+      "group_id": 1, 
+      "uid": 2707658, 
+      "count": 0
+    }, 
+    {
+      "username": "RonnieChow", 
+      "total": 2, 
+      "group_id": 2, 
+      "uid": 407815, 
+      "count": 0
+    }, 
+    {
+      "username": "sunset", 
+      "total": 1, 
+      "group_id": 2, 
+      "uid": 100964, 
+      "count": 0
+    }
+  ], 
+  "success": true
+}

@@ -1,0 +1,48 @@
+.g_pagination {
+	$size: 20px;
+	li {
+		padding: 0 .2em;
+	}
+	.page_num {
+		font-size: 14px;
+	}
+    a {
+        height: $size;
+        line-height: $size;
+    	text-align: center;
+        color: $blue;
+        display: block;
+    }
+    .radius {
+        a {
+            width: $size;
+            border-radius: 50%;
+            border: 1px solid $light_gray;
+            &:hover {
+				border-color: $blue;
+            }
+        }
+    }
+    .next {
+    	a {
+	    	border: 1px solid $light_gray;
+	    	border-radius: 10px;
+	    	padding: 0 1em;
+            &:hover {
+				border-color: $blue;
+            }
+    	}
+    }
+    .active {
+    	a {
+    		color: $black;
+    	}
+    }
+    .disable {
+    	a {
+    		cursor: not-allowed;
+    		color: $light_gray;
+    		border-color: $light_gray !important;
+    	}
+    }
+}

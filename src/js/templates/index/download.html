@@ -1,0 +1,60 @@
+<div  index-download id="footer_download" name="footer_download" class="footer_download">
+	<h2 class="title">・课程数据下载</h2>
+	<section style="margin-left: 0;">
+		<h3>黑板报</h3>
+		<div class="header"><span>汇总数据</span><a href="javascript:void(0);" target="">下载全部</a></div>
+		<div class="header_br"></div>
+		<ul>
+			<li class="{{lesson.enrollment_export.disabledClass || 'disabled'}}"><a href="{{lesson.enrollment_export.download_url}}" target="_blank"><span class="list-style-type">●</span><span>特别关注数据</span><div><b popup-hash="download_blackboard_1" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.learn_active_export.disabledClass || 'disabled'}}"><a href="{{lesson.learn_active_export.download_url}}" target="_blank"><span class="list-style-type">●</span><span>学习习惯数据</span><div><b popup-hash="download_blackboard_2" popup-position="bottom center" popup="" class="icon ">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.course_active_export.disabledClass || 'disabled'}}"><a href="{{lesson.course_active_export.download_url}}" target="_blank"><span class="list-style-type">●</span><span>学习活跃数据</span><div><b popup-hash="download_blackboard_3" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.study_progress.disabledClass || 'disabled'}}" style="margin-top: 15px;"><a href="{{lesson.study_progress.download_url}}" target="_blank"><span class="list-style-type">●</span><span>学习进度数据</span><div><b popup-hash="download_blackboard_4" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.comment_active_export.disabledClass || 'disabled'}}" style="margin-top: 15px;"><a href="{{lesson.comment_active_export.download_url}}" target="_blank"><span class="list-style-type">●</span><span>讨论活跃数据</span><div><b popup-hash="download_blackboard_5" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.grade_distribution_export.disabledClass || 'disabled'}}"><a href="{{lesson.grade_distribution_export.download_url}}" target="_blank"><span class="list-style-type">●</span><span>得分分布数据</span><div><b popup-hash="download_blackboard_6" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.ta_activity_export.disabledClass || 'disabled'}}"><a href="{{lesson.ta_activity_export.download_url}}" target="_blank"><span class="list-style-type">●</span><span>助教考核数据</span><div><b popup-hash="download_blackboard_7" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+		</ul>
+	</section>
+	<section>
+		<h3>学生行为</h3>
+		<div class="header"><span>个人记录</span><a href="javascript:void(0);" target="">下载全部</a></div>
+		<div class="header_br"></div>
+		<ul>
+			<li class="{{lesson.about_enroll.disabledClass || 'disabled'}}"><a  href="{{lesson.about_enroll.download_url}}" target="_blank"><span class="list-style-type">●</span><span>选课记录</span><div><b popup-hash="download_study_1" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.unenroll_info.disabledClass || 'disabled'}}"><a href="{{lesson.unenroll_info.download_url}}" target="_blank"><span class="list-style-type">●</span><span>退课记录</span><div><b popup-hash="download_study_2" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.learn_info.disabledClass || 'disabled'}}" style="margin-top: 15px;"><a href="{{lesson.learn_info.download_url}}" target="_blank"><span class="list-style-type">●</span><span>课程访问记录</span><div><b popup-hash="download_study_3" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.learn_cnt_info.disabledClass || 'disabled'}}"><a href="{{lesson.learn_cnt_info.download_url}}" target="_blank"><span class="list-style-type">●</span><span>课程访问次数</span><div><b popup-hash="download_study_count" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.video_study_export.disabledClass || 'disabled'}}" ><a href="{{lesson.video_study_export.download_url}}" target="_blank"><span class="list-style-type">●</span><span>视频观看记录</span><div><b popup-hash="download_study_4" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+
+			<li class="{{lesson.pdf_view.disabledClass || 'disabled'}}"><a class="" href="{{lesson.pdf_view.download_url}}" target="_blank"><span class="list-style-type">●</span><span>教材浏览记录</span><div><b popup-hash="download_study_5" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<!--<li class="{{lesson.about_enroll.disabledClass}}"><span>Wiki参与记录</span><div><b popup-hash="download_study_6" popup-position="bottom center" popup="" class="icon">j</b><a class="download_a" href="{{lesson.about_enroll.download_url}}" target="_blank">下载</a></div></li>-->
+			<!--<li class="{{lesson.about_enroll.disabledClass}}" style="margin-top: 15px;"><span>站外资源访问记录</span><div><b popup-hash="download_study_7" popup-position="bottom center" popup="" class="icon">j</b><a class="download_a" href="{{lesson.about_enroll.download_url}}" target="_blank">下载</a></div></li>-->
+			<li class="{{lesson.html_view.disabledClass || 'disabled'}}"><a href="{{lesson.html_view.download_url}}" target="_blank"><span class="list-style-type">●</span><span>其他页面浏览记录</span><div><b popup-hash="download_study_8" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.problem_info.disabledClass || 'disabled'}}"><a href="{{lesson.problem_info.download_url}}" target="_blank"><span class="list-style-type">●</span><span>每题最终得分记录</span><div><b popup-hash="download_study_9" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<li class="{{lesson.sort_info.disabledClass || 'disabled'}}" style="margin-top: 15px;"><a href="{{lesson.sort_info.download_url}}" target="_blank"><span class="list-style-type">●</span><span>每题每次提交记录</span><div><b popup-hash="download_study_10" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<!--<li class="{{lesson.about_enroll.disabledClass}}"><span>讨论区访问记录</span><div><b popup-hash="download_study_11" popup-position="bottom center" popup="" class="icon">j</b><a class="download_a" href="{{lesson.about_enroll.download_url}}" target="_blank">下载</a></div></li>-->
+			<li class="{{lesson.comments_info.disabledClass || 'disabled'}}"><a href="{{lesson.comments_info.download_url}}" target="_blank"><span class="list-style-type">●</span><span>发帖和回帖记录</span><div><b popup-hash="download_study_12" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			<!--<li class="{{lesson.about_enroll.disabledClass}}"><span>帖子浏览记录</span><div><b popup-hash="download_study_13" popup-position="bottom center" popup="" class="icon">j</b><a class="download_a" href="{{lesson.about_enroll.download_url}}" target="_blank">下载</a></div></li>-->
+		</ul>
+	</section>
+	<section class="section_right">
+		<section style="height:200px; ">
+			<h3>成绩评价</h3>
+			<div class="header"><span>个人记录</span><a href="javascript:void(0);" target="">下载全部</a></div>
+			<div class="header_br"></div>
+			<ul>
+				<li class="{{::lesson.grade.disabledClass || 'disabled'}}"><a href="{{lesson.grade.download_url}}" target="_blank"><span class="list-style-type">●</span><span>个人总成绩</span><div><b popup-hash="download_score_1" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+				<li class="disabled"><a href="" target="_blank"><span class="list-style-type">●</span><span>最终合格名单</span><div><b popup-hash="download_score_2" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			</ul>
+		</section>
+		<section style="height: 246px;">
+			<h3>课程问卷</h3>
+			<div class="header"><span>个人记录</span><a href="javascript:void(0);" target="">下载全部</a></div>
+			<div class="header_br"></div>
+			<ul>
+				<li class="disabled"><a href="" target="_blank"><span class="list-style-type">●</span><span>问卷数据</span><div><b popup-hash="download_lessonPersonal1" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+				<li class="disabled"><a href="" target="_blank"><span class="list-style-type">●</span><span>问卷填写记录</span><div><b popup-hash="download_lessonPersonal2" popup-position="bottom center" popup="" class="icon">j</b><span class="download_a">下载</span></div></a></li>
+			</ul>
+		</section>
+	</section>
+
+</div>

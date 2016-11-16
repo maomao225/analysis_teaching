@@ -1,0 +1,63 @@
+<div index-difficultyany class="difficultyAny">
+	<header class="header">
+		<div class="title">难点定位</div>
+		<div class="select_parent" ng-show=":: selectOption">
+			<div class="chapters ui selection dropdown">
+				<input name="chapters" type="hidden" ng-model="selectModel">
+				<i class="dropdown icon"></i>
+				<div class="text"></div>
+				<div class="menu">
+					<div class="item" data-value="{{::m.id}}" ng-repeat= "m in :: selectOption">{{::m.name}}</div>
+				</div>
+			</div>
+			<!--<select class="chapters" ng-model="selectModel">-->
+				<!--<option value="{{::m.id}}" ng-repeat= "m in :: selectOption">{{::m.name}}</option>-->
+			<!--</select>-->
+		</div>
+		<div class="rightTips"><span>综合定位教学难点</span><b popup-hash="difficulty_title" popup-position="bottom center" popup="" class="icon">j</b></div>
+	</header>
+	<section class="middle" ng-show="!loading">
+        <div class="centerP">
+		    <div class="title-box">
+				<div class="image1"></div>
+				<span class="title">难点覆盖总人数</span><b popup-hash="difficulty_totalTime" popup-position="bottom center" popup="" class="icon">j</b></div>
+            <div class="totalTime g_num">{{difficulty_total.count}}</div>
+			<div>
+				<div>同比<span class="g_num" ng-class="{count_add: (!difficulty_total.smaller), count_reduce: difficulty_total.smaller}">
+					{{ difficulty_total.smaller? '▼' : '▲'}}{{difficulty_total.percent}}
+				</span>时长<span class="g_num count">{{difficulty_total.duration2}}</span></div>
+			</div>
+        </div>
+		<div class="rightP">
+			<div class="reSeeP">
+				<div class="title-box"><span class="symbol"></span><span class="title">视频人均复看时长</span><b popup-hash="difficulty_reSeeTime" popup-position="bottom center" popup="" class="icon">j</b></div>
+				<div class="content-box">
+					<span class="totalTime g_num">{{video_total.duration_per_student2}}</span>
+					<div class="innerRight">
+						<div>同比<span class="g_num" ng-class="{count_add: (!video_total.smaller), count_reduce: video_total.smaller}">
+							{{ video_total.smaller? '▼' : '▲'}}{{video_total.percent}}</span></div>
+						<div>总计<span class="g_num count">{{video_total.duration2}}</span></div>
+					</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+			<div class="errorP">
+				<div class="title-box"><span class="symbol"></span><span class="title">对应习题人均答错人次</span><b popup-hash="difficulty_errorCount" popup-position="bottom center" popup="" class="icon">j</b></div>
+				<div class="content-box">
+					<span class="totalTime g_num">{{problem_total.times_per_student}}</span>
+					<div class="innerRight">
+						<div>同比<span class="g_num" ng-class="{count_add: (!problem_total.smaller), count_reduce: problem_total.smaller}">
+							{{ problem_total.smaller? '▼' : '▲'}}{{problem_total.percent}}</span></div>
+						<div>总计<span class="g_num count">{{problem_total.count}}</span></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<section class="difficultAny_chart_outer" ng-show="!loading">
+	<div id="difficultAny_chart" class="difficultAny_chart"></div>
+</section>
+	<div class="loading" ng-show="loading" ng-include="'loading.html'">
+	</div>
+</div>

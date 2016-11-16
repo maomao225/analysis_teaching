@@ -1,0 +1,14 @@
+<div class="dot_matrix_wrap_popup_question">
+	<div class="mt5 mb10">
+		<img class="dot_matrix_wrap_popup_avatar" ng-src="{{:: avatar ? avatar : staticDir + '/icon/avatar.png'}}"><span class="dot_matrix_wrap_popup_username">{{:: username}}</span>
+	</div>
+	<div>
+		当前合格概率：{{:: (success_probability * 100).toFixed(2)}}%
+	</div>
+	<div>
+		当前答案正确率：{{:: (correct_rate * 100).toFixed(2)}}%
+	</div>
+	<ul class="dot_matrix_wrap_popup_answer">
+	</ul>
+	<p class="dot_matrix_wrap_popup_last_time mt5">最后预测时间: <span>{{:: predict_time | dateRange}}</span></p>
+</div>

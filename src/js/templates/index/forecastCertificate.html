@@ -1,0 +1,17 @@
+<div class="title g_flex">
+	<h2>证书预测</h2>
+	<div class="subtitle">
+		获得证书的占比<b class="icon" popup popup-hash="certificateRate" popup-position="bottom center">j</b>
+	</div>
+</div>
+<div class="percent g_num mt15">
+	{{:: ((forecast.data.count / enrollmentTotal.regist_count * 100).toFixed(2) | isInvalidNum) || '--'}}%
+</div>
+<div class="g_flex people_num">
+	<div class="g_num">
+		人数 <span>{{:: forecast.data.count || '--'}}</span>
+	</div>
+	<div class="g_num">
+		准确性 <span>{{:: ((forecast.data.corect_rate * 100).toFixed(2) | isInvalidNum) || '--'}}%</span>
+	</div>
+</div>

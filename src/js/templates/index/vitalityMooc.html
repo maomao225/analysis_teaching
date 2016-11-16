@@ -1,0 +1,39 @@
+<div class="title g_flex">
+	<h2>课程热度</h2>
+</div>
+<div class="vitality vitality_mooc" index-vitality-mooc>
+<div class="description_kpi g_flex">
+		<div class="push_left g_flex1">
+			<h3><b class="icon line1">l</b>当前选课人数<b class="icon" popup popup-position="bottom center" popup-hash="enrollment">j</b></h3>
+			<p class="g_num total">{{:: d3Vitality.statistics.curregister.total.toLocaleString()}}</p>
+			<p>昨日 <span class="g_num">+{{:: d3Vitality.statistics.curregister.yestoday.toLocaleString()}}</span>&nbsp;&nbsp; 环比 <span class="g_num" ng-class=":: {up: d3Vitality.statistics.curregister.mom >= 0, down: d3Vitality.statistics.curregister.mom < 0}" >{{:: d3Vitality.statistics.curregister.mom >=0 ? '▲' : '▼'}}{{(d3Vitality.statistics.curregister.mom * 100).toFixed(2)}}%</span></p>
+		</div>
+		<div class="push_right g_flex1">
+			<div class="inner">
+				<h3><i class="rect"></i>累计报课人数<b class="icon" popup popup-hash="register" popup-position="bottom center">j</b></h3>
+				<div class="g_flex">
+					<div class="g_num total" >
+						{{:: d3Vitality.statistics.regaddup.total.toLocaleString()}}
+					</div>
+					<div class="detail">
+						<p>昨日 <span class="g_num">+{{:: d3Vitality.statistics.regaddup.yestoday.toLocaleString()}}</span></p>
+						<p>环比 <span class="g_num" ng-class=":: {up: d3Vitality.statistics.regaddup.mom >= 0, down: d3Vitality.statistics.regaddup.mom < 0}">{{:: d3Vitality.statistics.regaddup.mom >=0 ? '▲' : '▼'}}{{(d3Vitality.statistics.regaddup.mom * 100).toFixed(2)}}%</span></p>
+					</div>
+				</div>
+			</div>
+			<div class="inner">
+				<h3><i class="rect pink"></i>累计退课人数<b class="icon" popup popup-hash="unenrollment" popup-position="bottom center">j</b></h3>
+				<div class="g_flex">
+					<div class="g_num total" >
+						{{:: d3Vitality.statistics.unregaddup.total.toLocaleString()}}
+					</div>
+					<div class="detail">
+						<p>昨日 <span class="g_num">+{{:: d3Vitality.statistics.unregaddup.total - d3Vitality.statistics.unregaddup.yestoday.toLocaleString()}}</span></p>
+						<p>环比 <span class="g_num" ng-class=":: {up: d3Vitality.statistics.unregaddup.mom >= 0, down: d3Vitality.statistics.unregaddup.mom < 0}">{{:: d3Vitality.statistics.unregaddup.mom >=0 ? '▲' : '▼'}}{{:: (d3Vitality.statistics.unregaddup.mom * 100).toFixed(2)}}%</span></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="d3_vitality" d3-vitality="chartData" d3-vitality-option="{popupLabel: ['当前选课人数', '累计报课人数', '累计退课人数']}"></div>
+</div>

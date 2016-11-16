@@ -1,0 +1,77 @@
+.radar-chart .level {
+	stroke: white;
+	stroke-width: 0.5;
+}
+
+.radar-chart .axis line {
+	stroke: white;
+	stroke-width: 0.5;
+}
+.radar-chart .axis .legend {
+	font-family: sans-serif;
+	font-size: 12px;
+}
+.radar-chart .axis .legend.top {
+	dy:1em;
+}
+.radar-chart .axis .legend.left {
+	text-anchor: left;
+}
+.radar-chart .axis .legend.middle {
+	text-anchor: middle;
+}
+.radar-chart .axis .legend.right {
+	text-anchor: right;
+}
+.radar-chart .tooltip {
+	font-family: sans-serif;
+	font-size: 13px;
+	transition: opacity 200ms;
+	opacity: 1;
+}
+.radar-chart .tooltip.visible {
+	opacity: 1;
+}
+
+/* area transition when hovering */
+.radar-chart .area {
+	stroke-width: 2;
+	fill-opacity: 0.7;
+}
+.radar-chart.focus .area {
+	fill-opacity: 0.3;
+}
+.radar-chart.focus .area.focused {
+	fill-opacity: 0.9;
+}
+.radar-chart .circle {
+	fill-opacity: 0.9;
+}
+.area.health, .health .circle {
+	fill: #28fff7;
+	stroke: #009ee3;
+	stroke-width: 1;
+	stroke-linecap: round;
+}
+.radar-chart .level-group-4 .level{
+	stroke-width:1;
+}
+.radar-chart .labeltext{
+	font-size: 12px;
+	fill: white;
+	opacity:0.5;
+}
+.radar-chart .level{
+	opacity:0.5;
+}
+.radar-chart .axis line{
+	opacity:0.5;
+}
+/* transitions */
+.radar-chart .area, .radar-chart .circle {
+	transition: opacity 300ms, fill-opacity 200ms;
+	opacity: 1;
+}
+.radar-chart .d3-enter, .radar-chart .d3-exit {
+	opacity: 0;
+}

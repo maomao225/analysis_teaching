@@ -1,0 +1,17 @@
+<div class="title g_flex">
+	<h2>得分分布</h2>
+	<div class="subtitle">
+		答题平均得分率<b class="icon" popup popup-hash="score" popup-position="bottom center">j</b>
+	</div>
+</div>
+<div class="mt15">
+	<div d3-score=":: d3Score"></div>
+	<div class="text_description g_flex" ng-if=":: d3Score.distribution.children.length">
+		<div class="percentage g_num">{{:: (d3Score.distribution.overcome * 100).toFixed(2)}}%</div>
+		<div class="total">
+			<p class="g_num">总回答数 {{:: d3Score.distribution.total_student_num.toLocaleString()}}</p>
+			<p>过均分数<span class="g_num blue"> {{:: d3Score.distribution.above_average.toLocaleString()}}</span></p>
+		</div>
+	</div>
+</div>
+<div class="beta"></div>

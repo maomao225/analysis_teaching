@@ -1,0 +1,26 @@
+<div class="dot_matrix_wrap_popup_question">
+	<div class="dot_matrix_wrap_popup_chapter">
+		第<span>{{:: seq}}</span>节/<span>{{:: name}}</span>
+	</div>
+	<div class="dot_matrix_wrap_popup_title mb5 mt5">
+		Q: <span>{{:: detail}}</span>
+	</div>
+	<ul class="dot_matrix_wrap_popup_answer" ng-if="tag.indexOf('choice') !== -1">
+		<li class="dot_matrix_wrap_popup_answer_item" ng-repeat="m in :: newAnswer" ng-class=":: {dot_matrix_wrap_popup_answer_right: rightanswer.indexOf(m.sortkey) > -1}">
+			<span>{{:: m.sortkey}}</span>. <span>{{:: m[m.sortkey] }}</span>
+		</li>
+	</ul>
+	<div class="dot_matrix_wrap_popup_answer_right" ng-if="tag.indexOf('choice') === -1">
+		{{:: rightanswer}}
+	</div>
+	<div class="mt5 mb10">
+		<img class="dot_matrix_wrap_popup_avatar" ng-src="{{:: avatar ? avatar : staticDir + '/icon/avatar.png'}}"><span class="dot_matrix_wrap_popup_username">{{:: username}}</span>
+	</div>
+	<ol class="g_flex" ng-if="tag.indexOf('choice') !== -1">
+		<li class="dot_matrix_wrap_popup_user_answer" ng-repeat="m in :: newAnswer" ng-class=":: {right_answer: rightanswer.indexOf(m.sortkey) > -1, user_answer: value.indexOf(m.sortkey) > -1}">{{:: m.sortkey}}</li>
+	</ol>
+	<div ng-if="tag.indexOf('choice') === -1">
+		{{:: value }}
+	</div>
+	<p class="dot_matrix_wrap_popup_last_time mt5">最后提交时间: <span>{{:: last_modified | dateRange}}</span></p>
+</div>

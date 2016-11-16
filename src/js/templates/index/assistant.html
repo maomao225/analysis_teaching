@@ -1,0 +1,48 @@
+<div index-assistant>
+	<div class="title g_flex">
+		<h2>助教考核</h2>
+		<div class="subtitle">
+			助教回帖数<b class="icon" popup popup-hash="assistant" popup-position="bottom center">j</b>
+		</div>
+	</div>
+	<div class="assistant_inner" ng-if=":: assistant.assistants_reply.length">
+		<ul>
+			<li ng-repeat="i in renderData">
+				<div class="description g_flex">
+					<div class="name g_flex">
+						<span>{{i.name}}</span>
+						<i ng-if="i.children[2].value.indexOf('Administrator') != -1" class="red" popup="#staff_popup" popup-position="bottom center"></i>
+						<i ng-if="i.children[2].value.indexOf('Community TA') != -1" class="blue" popup="#moderator_popup" popup-position="bottom center"></i>
+						<i ng-if="i.children[2].value.indexOf('Moderator') != -1" class="green" popup="#assistant2_popup" popup-position="bottom center"></i>
+					</div>
+					<div class="data g_flex">
+						<div>
+							<span class="g_num">{{i.children[1].value.toLocaleString()}}</span> 总计
+						</div>
+						<div>
+							昨天 +<span class="g_num">{{i.children[0].value.toLocaleString()}}</span>
+						</div>
+					</div>
+				</div>
+				<div class="progress" style="width: {{i.children[1].value / baseNum * 100}}%" >
+					<div style="width: {{i.children[1].value == 0 ? '0%' : (1 - i.children[0].value/i.children[1].value)*100 + '%'}}"></div>
+				</div>
+			</li>
+		</ul>
+		<div class="pagination" ng-if="paginationSeveral > 1">
+			<b class="no_modal" ng-class="{active: $first}" ng-click="refresh($event)" ng-repeat="i in assistant.assistants_reply | limitTo: paginationSeveral"></b>
+		</div>
+	</div>
+	<div class="empty" ng-if=":: !assistant.assistants_reply.length">
+		暂无数据
+	</div>
+	<div class="g_hide" id="assistant2_popup">
+		论坛社区助教
+	</div>
+	<div class="g_hide" id="staff_popup">
+		论坛管理员
+	</div>
+	<div class="g_hide" id="moderator_popup">
+		论坛版主
+	</div>
+</div>

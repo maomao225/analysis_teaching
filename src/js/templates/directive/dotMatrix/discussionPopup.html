@@ -1,0 +1,20 @@
+<div class="dot_matrix_wrap_popup_question">
+	<div class="dot_matrix_wrap_popup_chapter">
+		第<span>{{:: seq}}</span>节/<span>{{:: name}}</span>
+	</div>
+	<div class="dot_matrix_wrap_popup_title mb5 mt5">
+		<span>{{:: detail}}</span>
+	</div>
+	<ul class="dot_matrix_wrap_popup_answer">
+	</ul>
+	<div class="mt5 mb10">
+		<img class="dot_matrix_wrap_popup_avatar" ng-src="{{:: avatar ? avatar : staticDir + '/icon/avatar.png'}}"><span class="dot_matrix_wrap_popup_username">{{:: username}}</span>
+	</div>
+	<div>
+		发帖数：<span>{{:: post_num || 0}}</span>
+	</div>
+	<div>
+		回复数：<span>{{:: reply_num || 0}}</span>
+	</div>
+	<p class="dot_matrix_wrap_popup_last_time mt5">最后提交时间: <span>{{:: last_modified | dateRange}}</span></p>
+</div>
